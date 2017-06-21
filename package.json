@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/djkeh/resume.git",
-  "author": "uno <uno@nhnent.com>",
+  "author": "Uno Kim <djkehh@gmail.com>",
   "license": "MIT",
   "scripts": {
-      "docs": "flybook docs --outdir=out",
+      "docs": "flybook docs --outdir=out --silent --font=Noto+Sans --codeStyle=androidstudio --theme=light",
       "pages": "gh-pages -d out"
   },
   "devDependencies": {
