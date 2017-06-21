@@ -1,12 +1,3 @@
----
-layout: page
-title: 이력서
-excerpt: "이력서 - 김은호"
-search_omit: true
-share: false
-sitemap: false
----
-
 # 기본정보
 
 김은호 (Eunho Kim)  

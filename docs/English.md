@@ -1,12 +1,3 @@
----
-layout: page
-title: Eunho Kim
-excerpt: "Uno's Resume"
-search_omit: true
-share: false
-sitemap: false
----
-
 # Basic info.
 
 Eunho Kim (김은호)  
