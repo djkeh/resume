@@ -2,7 +2,7 @@
 
 김은호 (Eunho Kim)  
 서버 프로그래머 (Java, Spring)  
-대한민국, 서울시 강남구 거주
+대한민국, 서울시 강남구 거주  
 010-2778-5309  
 [djkehh@gmail.com](mailto:djkehh@gmail.com)
 
