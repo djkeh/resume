@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/djkeh/resume.git",
+  "author": "uno <uno@nhnent.com>",
+  "license": "MIT",
+  "scripts": {
+      "docs": "flybook docs --outdir=out",
+      "pages": "gh-pages -d out"
+  },
+  "devDependencies": {
+    "flybook": "^1.4.1",
+    "gh-pages": "^1.0.0"
+  }
+}
