@@ -1,13 +1,20 @@
 {
   "name": "resume",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/djkeh/resume.git",
-  "author": "Uno Kim <djkehh@gmail.com>",
-  "license": "MIT",
+  "description": "Uno's resume",
+  "homepage": "https://djkeh.github.io/resume",
+  "repository": {
+      "url": "https://github.com/djkeh/resume.git",
+      "type": "git"
+  },
+  "author": {
+      "name": "Uno Kim",
+      "email": "djkehh@gmail.com",
+      "url": "https://djkeh.github.io"
+  },
   "scripts": {
       "docs": "flybook docs --outdir=out --silent --font=Noto+Sans --codeStyle=androidstudio --theme=light",
-      "pages": "gh-pages -d out"
+      "docs:prod": "flybook docs --outdir=out --prod --silent --font=Noto+Sans --codeStyle=androidstudio --theme=light",
+      "pages": "gh-pages -d out -m 'Update flybook pages on `gh-pages` branch'"
   },
   "devDependencies": {
     "flybook": "^1.4.1",

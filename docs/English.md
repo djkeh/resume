@@ -1,6 +1,5 @@
-# Basic info.
+# Eunho Kim
 
-Eunho Kim (김은호)  
 Server Programmer (Java, Spring)  
 Gangnam-gu, Seoul, Republic of Korea  
 +82-10-2778-5309  
