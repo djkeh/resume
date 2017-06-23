@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "description": "Uno's resume",
-  "homepage": "https://djkeh.github.io/resume",
+  "homepage": "https://djkeh.github.io/resume/",
   "repository": {
       "url": "https://github.com/djkeh/resume.git",
       "type": "git"
@@ -9,7 +9,7 @@
   "author": {
       "name": "Uno Kim",
       "email": "djkehh@gmail.com",
-      "url": "https://djkeh.github.io"
+      "url": "https://djkeh.github.io/"
   },
   "scripts": {
       "docs-dev": "flybook docs --outdir=out --silent --font=Noto+Sans --codeStyle=androidstudio --theme=light",
