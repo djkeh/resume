@@ -108,9 +108,9 @@ Gangnam-gu, Seoul, Republic of Korea
 * Developed test modules (C++, Pro*C, Oracle)
 * Performed testing more than 200 subprograms containing SQL transactions
 
-## NAVER Intern, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
+## NAVER, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
 
-### Natural Language Processing Team IT Assistant
+### Natural Language Processing Team, Intern
 
 * Developed spell check resource management system (HTML, PHP, Javascript, MySQL)
 * Composed technical documents about overall functions and usage of the system
@@ -124,9 +124,9 @@ Gangnam-gu, Seoul, Republic of Korea
 * Assumed composition module development part
 * Demo(Korean): [http://youtu.be/dcpifU3yHms](http://youtu.be/dcpifU3yHms)
 
-## Concept One Accessories Intern, New York, United States *(Feb 2011 – Jul 2010)*
+## Concept One Accessories, New York, United States *(Feb 2011 – Jul 2010)*
 
-### MIS/Operations department IT Assistant
+### MIS/Operations, Intern
 
 * Managed various kinds of documents, reports and Excel spreadsheets
 * Automated producing reports and conducting tasks using VBA script language
