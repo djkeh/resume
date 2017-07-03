@@ -189,20 +189,37 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 # 과외 활동
 
-## 아틀라시안 비트비커 한글화 *(2016년 11월 ~ 현재)*
+## Flybook, 오픈소스 컨트리뷰터 *(2017년 6월 ~ 현재)*
+
+Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim)님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어 영향을 받았으며, React와 React DOM Server를 사용하였습니다.
+
+[https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
+
+이 오픈소스 프로젝트의 윈도우 테스트를 issue로 보고하고 문서 첨삭을 pull request 하여 컨트리뷰터가 되었습니다. 앞으로도 이 오픈소스 프로젝트의 품질 향상을 위해 참여를 계속할 예정입니다.
+
+* 참여 내역
+  * [https://github.com/rhiokim/flybook/issues/18](https://github.com/rhiokim/flybook/issues/18)
+  * [https://github.com/rhiokim/flybook/issues/13](https://github.com/rhiokim/flybook/issues/13)
+  * [https://github.com/rhiokim/flybook/issues/1](https://github.com/rhiokim/flybook/issues/1)
+  * [https://github.com/rhiokim/flybook/pull/14](https://github.com/rhiokim/flybook/pull/14)
+
+
+본 이력서는 Flybook을 이용하여 만들어졌습니다.
+
+## 아틀라시안 비트비커 한글화 *(2016년 11월 ~ 2017년 5월)*
 
 비트비커(Bitbeaker)는 Atlassian Bitbucket의 안드로이드 클라이언트입니다.
 
 [https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker)
 
 이 안드로이트 클라이언트의 전체 내용을 한글화하는 작업입니다.  
-현재 100% 번역 및 1차 알파 테스트, 수정 배포까지 완료하였고, 마일스톤 일정에 따라 리얼 릴리즈를 기다리고 있습니다.
+100% 직접 번역 완료하여 v3.3 릴리즈와 함꼐 배포하였습니다.
 
 * 11월 한글화 작업 제안
 * 2월 본격적으로 착수
 * 3월 알파 릴리즈
 * 4월 1차 수정안 커밋
-* 베타 테스트 후 마일스톤 v3.3 릴리즈 예정
+* 5월 24일 v3.3 릴리즈 완료
 * 이슈: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
 * 번역도구: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 

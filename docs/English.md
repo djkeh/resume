@@ -60,7 +60,7 @@ Gangnam-gu, Seoul, Republic of Korea
 
 #### Spell Checker API *(Jul 2016 - Jan 2016)*
 
-* Used techniques: C/C++(Apache module), Java(Spring), HTML/CSS/Javascript, Git(GitHub), Markdown(Confluence Wiki, Github)
+* Used techniques: C/C++(Apache module), Java(Spring), HTML/CSS/Javascript, Git(GitHub), Markdown(Confluence Wiki, GitHub)
 * Project description: Spell Checker API is a [TOAST Cloud](https://cloud.toast.com) product designed in RESTful web API. This API takes a certain Korean paragraph which is expected to have typos and returns back the corrected paragraph as the result. The spell checker engine was present, but was made of unsustainable old legacy code written in C programming language. The main objective of this project is to analyze, debug, refine the engine code and move it to Apache module program using C++ to build more convenient and sustainable web API. The product presentation page is made of Java, Spring.
 * Product description page(Korean): [https://cloud.toast.com/service/spellchecker](https://cloud.toast.com/service/spellchecker)
 * User manual(Korean): [http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview](http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview)
@@ -82,7 +82,7 @@ Gangnam-gu, Seoul, Republic of Korea
 
 #### Address Search API *(Jul 2016 - Apr 2015)*
 
-* Used techniques: C++, Java(Spring Boot), HTML/CSS/Javascript, Python, Shell Script, Git(GitHub), Markdown(Confluence Wiki, Github)
+* Used techniques: C++, Java(Spring Boot), HTML/CSS/Javascript, Python, Shell Script, Git(GitHub), Markdown(Confluence Wiki, GitHub)
 * Project description: Address Search API is a [TOAST Cloud](https://cloud.toast.com) product which provides unified address search experience. South Korea currently has 2 different local address systems, one of which is old, deprecated but still present. Most competitors provide the service to search two addresses separately, which means the user can't search old address in new address search input box and vice versa, even two addresses mean same location. It also means it needs to be sure for users to know which kind of address it is before searching. This product has single search input to query two types of addresses without a care. The address search engine distinguishes address query and gives the search result. The Address Search API is designed in a RESTful way, Richardson Maturity Level 2.
 * Product description page(Korean): [https://cloud.toast.com/service/addresssearch](https://cloud.toast.com/service/addresssearch)
 * User manual(Korean): [http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview](http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview)
@@ -174,7 +174,20 @@ Gangnam-gu, Seoul, Republic of Korea
 
 # Extracurricular Activity
 
-## Korean Translation, Atlassian Bitbeaker *(Now - Nov 2016)*
+## Flybook, Open Source Contributor *(Now - Jun 2017)*
+
+Flybook is a utility to generate static website from markdown document. [Rhio Kim](https://github.com/rhiokim) created the project, and this is inspired by [funbook](https://funbook.js.org/) and [next.js export functionality](https://zeit.co/blog/next). The code is rewrited using React and React DOM Server.
+
+[https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
+
+* Participating the project as a contributor
+* Testing software in Windows user environment which was not properly tested and thereby desired by the project master
+* Reporting issues through GitHub
+* Revising English project documents
+
+This resume is published by Flybook.
+
+## Korean Translation, Atlassian Bitbeaker *(May 2017 - Nov 2016)*
 
 * Bitbeaker: Android client for Atlassian Bitbucket
 * Proposed Korean Translation on Nov.
