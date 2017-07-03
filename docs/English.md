@@ -194,7 +194,7 @@ This resume is published by Flybook.
 * Initiated Translation on Feb.
 * Released Alpha version on Mar.
 * Committed first polished revision on Apr.
-* Expecting to publish release version on milestone v3.3
+* Released v3.3 on May.
 * Issue: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
 * Translation: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 

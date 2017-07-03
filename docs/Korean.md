@@ -213,7 +213,7 @@ Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 �
 [https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker)
 
 이 안드로이트 클라이언트의 전체 내용을 한글화하는 작업입니다.  
-100% 직접 번역 완료하여 v3.3 릴리즈와 함꼐 배포하였습니다.
+100% 직접 번역 완료하여 v3.3 릴리즈와 함께 배포하였습니다.
 
 * 11월 한글화 작업 제안
 * 2월 본격적으로 착수
