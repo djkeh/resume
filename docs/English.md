@@ -110,7 +110,7 @@ Gangnam-gu, Seoul, Republic of Korea
 
 ## NAVER, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
 
-### Natural Language Processing Team, Intern
+### Natural Language Processing Team (NLP), Intern
 
 * Developed spell check resource management system (HTML, PHP, Javascript, MySQL)
 * Composed technical documents about overall functions and usage of the system

@@ -126,7 +126,7 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 ## NAVER *(2013년 9월 ~ 2014년 1월)*
 
-### 자연어처리팀, 인턴
+### 자연어처리팀 (NLP), 인턴
 
 * 맞춤법 검사기 리소스 관리 시스템 개발 (HTML, PHP, Javascript, MySQL)
 * 전체 사용 방법을 정리한 기술 문서 작성
@@ -202,7 +202,6 @@ Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 �
   * [https://github.com/rhiokim/flybook/issues/13](https://github.com/rhiokim/flybook/issues/13)
   * [https://github.com/rhiokim/flybook/issues/1](https://github.com/rhiokim/flybook/issues/1)
   * [https://github.com/rhiokim/flybook/pull/14](https://github.com/rhiokim/flybook/pull/14)
-
 
 본 이력서는 Flybook을 이용하여 만들어졌습니다.
 
