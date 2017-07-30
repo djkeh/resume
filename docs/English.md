@@ -105,12 +105,12 @@ Gangnam-gu, Seoul, Republic of Korea
 
 ### Intern
 
-* Developed test modules (C++, Pro*C, Oracle)
+* Developed test modules (C++, Pro\*C, Oracle)
 * Performed testing more than 200 subprograms containing SQL transactions
 
 ## NAVER, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
 
-### Natural Language Processing Team, Intern
+### Natural Language Processing Team (NLP), Intern
 
 * Developed spell check resource management system (HTML, PHP, Javascript, MySQL)
 * Composed technical documents about overall functions and usage of the system
@@ -174,27 +174,20 @@ Gangnam-gu, Seoul, Republic of Korea
 
 # Extracurricular Activity
 
-## Flybook, Open Source Contributor *(Now - Jun 2017)*
+## Open Source Contributor, Flybook *(Now - Jun 2017)*
 
-Flybook is a utility to generate static website from markdown document. [Rhio Kim](https://github.com/rhiokim) created the project, and this is inspired by [funbook](https://funbook.js.org/) and [next.js export functionality](https://zeit.co/blog/next). The code is rewrited using React and React DOM Server.
-
-[https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
-
+* Flybook: A utility to generate static website from markdown document ([https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook))
 * Participating the project as a contributor
 * Testing software in Windows user environment which was not properly tested and thereby desired by the project master
 * Reporting issues through GitHub
-* Revising English project documents
+* Revising official project documents
 
 This resume is published by Flybook.
 
-## Korean Translation, Atlassian Bitbeaker *(May 2017 - Nov 2016)*
+## Korean Translation, Bitbeaker *(May 2017 - Nov 2016)*
 
-* Bitbeaker: Android client for Atlassian Bitbucket
-* Proposed Korean Translation on Nov.
-* Initiated Translation on Feb.
-* Released Alpha version on Mar.
-* Committed first polished revision on Apr.
-* Released v3.3 on May.
+* Bitbeaker: Android client for Atlassian Bitbucket ([https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker))
+* Translated entire android application and Google Play Store app description page
 * Issue: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
 * Translation: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 

@@ -121,12 +121,12 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 ### 인턴
 
-* 테스트 모듈 개발 (C++, Pro*C, Oracle)
+* 테스트 모듈 개발 (C++, Pro\*C, Oracle)
 * 200여 개의 SQL 트랜잭션 수행용 서브프로그램을 테스트하는 QA 업무 수행
 
 ## NAVER *(2013년 9월 ~ 2014년 1월)*
 
-### 자연어처리팀, 인턴
+### 자연어처리팀 (NLP), 인턴
 
 * 맞춤법 검사기 리소스 관리 시스템 개발 (HTML, PHP, Javascript, MySQL)
 * 전체 사용 방법을 정리한 기술 문서 작성
@@ -189,13 +189,13 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 # 과외 활동
 
-## Flybook, 오픈소스 컨트리뷰터 *(2017년 6월 ~ 현재)*
+## 오픈소스 컨트리뷰터, Flybook *(2017년 6월 ~ 현재)*
 
 Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim)님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어 영향을 받았으며, React와 React DOM Server를 사용하였습니다.
 
 [https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
 
-이 오픈소스 프로젝트의 윈도우 테스트를 issue로 보고하고 문서 첨삭을 pull request 하여 컨트리뷰터가 되었습니다. 앞으로도 이 오픈소스 프로젝트의 품질 향상을 위해 참여를 계속할 예정입니다.
+이 오픈소스 프로젝트를 윈도우 환경에서 테스트하여 문제점이 있다면 issue로 보고하고, 공식 문서를 첨삭하는 역할을 수행하고 있습니다. 앞으로도 이 오픈소스 프로젝트의 품질 향상을 위해 활동을 계속할 예정입니다.
 
 * 참여 내역
   * [https://github.com/rhiokim/flybook/issues/18](https://github.com/rhiokim/flybook/issues/18)
@@ -203,23 +203,16 @@ Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 �
   * [https://github.com/rhiokim/flybook/issues/1](https://github.com/rhiokim/flybook/issues/1)
   * [https://github.com/rhiokim/flybook/pull/14](https://github.com/rhiokim/flybook/pull/14)
 
-
 본 이력서는 Flybook을 이용하여 만들어졌습니다.
 
-## 아틀라시안 비트비커 한글화 *(2016년 11월 ~ 2017년 5월)*
+## 한글화, 아틀라시안 비트비커 *(2016년 11월 ~ 2017년 5월)*
 
 비트비커(Bitbeaker)는 Atlassian Bitbucket의 안드로이드 클라이언트입니다.
 
 [https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker)
 
-이 안드로이트 클라이언트의 전체 내용을 한글화하는 작업입니다.  
-100% 직접 번역 완료하여 v3.3 릴리즈와 함께 배포하였습니다.
+이 안드로이트 클라이언트의 전체 내용과 구글 플레이 스토어의 제품 설명 페이지를 한글화하는 작업입니다. 100% 직접 번역 완료하여 v3.3 릴리즈와 함께 배포하였습니다.
 
-* 11월 한글화 작업 제안
-* 2월 본격적으로 착수
-* 3월 알파 릴리즈
-* 4월 1차 수정안 커밋
-* 5월 24일 v3.3 릴리즈 완료
 * 이슈: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
 * 번역도구: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 
