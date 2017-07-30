@@ -159,7 +159,7 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
   * Java
   * Linux Shell Script
   * Python
-  * Html5/Css3/Javascript
+  * HTML5/CSS3/Javascript
   * PHP
 * 프레임워크
   * Spring
