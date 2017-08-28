@@ -10,22 +10,17 @@ Gangnam-gu, Seoul, Republic of Korea
 
 ### Graduate, Soongsil University, Seoul, South Korea *(Feb 2014 – Mar 2005)*
 
-* A Bachelor Degree in Telecommunications & Electronic Engineering (GPA: 3.3/4.5)
-* Relevant Courses
-  * C/C++
-  * Data Structure
-  * Algorithm
-  * OS
-  * Embedded Programming
-  * Data Communication
-  * Computer Network
+* A Bachelor Degree in Telecommunications & Electronic Engineering
 
 
 # Work Experience
 
 ## NHN Entertainment, Gyeonggi-do, South Korea *(Now – Jan 2015)*
 
-### Server Programmer
+* Web application back-end programmer
+* Java, Spring
+
+### O2O Service Development Team
 
 #### TOAST Meetup *(Now - Apr 2017)*
 
@@ -137,42 +132,9 @@ Gangnam-gu, Seoul, Republic of Korea
 * Taught English to middle/high school students
 
 
-# Skills
-
-* Programming languages
-  * C/C++
-  * Java
-  * Linux Shell Script
-  * Python
-  * HTML5/CSS3/Javascript
-  * PHP
-* Frameworks
-  * Spring
-* Databases
-  * MySQL
-  * Oracle
-  * MariaDB
-  * Cubrid
-* Tools & Editors
-  * Eclipse
-  * Notepad++
-  * Sublime Text
-  * Vim
-* Version control
-  * Git
-* Certificates
-  * Engineer Information Processing, Human Resources Development Service of Korea, 2013-12-13
-
-
-# Languages
-
-* Korean, native
-* English, fluent
-  * TOEIC: 855, 2013-05-25
-  * OPIc: IH, 2012-09-22
-
-
 # Extracurricular Activity
+
+
 
 ## Open Source Contributor, Flybook *(Now - Jun 2017)*
 
@@ -205,6 +167,14 @@ This resume is published by Flybook.
 ## Club Festival Exhibition, SoongSil Computer Club of Soongsil University *(Sep 2011 - Sep 2005)*
 
 * Directed various C programming project exhibitions 3 times
+
+
+# Language
+
+* Korean, native
+* English, fluent
+  * TOEIC: 855, 2013-05-25
+  * OPIc: IH, 2012-09-22
 
 
 # Interest
