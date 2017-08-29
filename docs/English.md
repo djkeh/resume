@@ -112,7 +112,7 @@ Gangnam-gu, Seoul, Republic of Korea
 
 # Extracurricular Activity
 
-## Korean Translation, Bitbucket *(Now - Aug 2017)*
+## Korean Translation, Atlassian Bitbucket *(Now - Aug 2017)*
 
 * Bitbucket: The git hosting service by Atlassian ([https://bitbucket.org](https://bitbucket.org/))
 * Translating entire web services under Bitbucket project (current status: 58%)

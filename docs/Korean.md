@@ -140,7 +140,7 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 비트버킷의 웹페이지를 한글화하는 작업입니다. 이제 막 시작한 단계이고, 다른 번역자들과 함꼐 번역 작업을 진행 중입니다. 번역률은 현재 약 58% 입니다.
 
-* 번역 도구: [Transifex](https://www.transifex.com/)
+* 번역 도구: [https://www.transifex.com/atlassian/bitbucketorg/dashboard/](https://www.transifex.com/atlassian/bitbucketorg/dashboard/)
 
 ## 오픈소스 컨트리뷰터, Flybook *(2017년 6월 ~ 현재)*
 
@@ -158,7 +158,7 @@ Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 �
 
 본 이력서는 Flybook을 이용하여 만들어졌습니다.
 
-## 한글화, 아틀라시안 비트비커 *(2016년 11월 ~ 2017년 5월)*
+## 한글화, 비트비커 *(2016년 11월 ~ 2017년 5월)*
 
 비트비커(Bitbeaker)는 Atlassian Bitbucket의 안드로이드 클라이언트입니다.
 
