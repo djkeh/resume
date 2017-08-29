@@ -35,7 +35,7 @@ Gangnam-gu, Seoul, Republic of Korea
 #### Unsudowon, Friend Recommendation Event *(Mar 2017 - Jan 2017)*
 
 * Used techniques: Java(Spring), HTML/CSS/Javascript, Shell Script, Python, MySQL, Git(GitHub)
-* Project description: Unsudowon is mobile app which offers a variety of fortune telling services based on machine learning technology and over 1500 sample images of human faces and palms. Unsudowon mainly consists of 3 parts: Tensor Flow core engine, web application server and mobile app. This project is about holding the New Year holiday event to have new Payco users, as Unsudowon uses Payco account and OAuth login system for operating member service.
+* Project description: Unsudowon is mobile app which offers a variety of fortune telling services based on machine learning technology and over 1500 sample images of human faces and palms. Unsudowon mainly consists of 3 parts: TensorFlow core engine, web application server and mobile app. This project is about holding the New Year holiday event to have new Payco users, as Unsudowon uses Payco account and OAuth login system for operating member service. Unsudowon is the service which has over 100,000 users, 10,000 DAU. The data is analyzed by AceCounter and TOAST Analytics are used to collect and analyze user log.
 * Product page
   * Android: [https://play.google.com/store/apps/details?id=com.nhnent.unse](https://play.google.com/store/apps/details?id=com.nhnent.unse)
   * iPhone: [https://itunes.apple.com/app/id1177304977](https://itunes.apple.com/app/id1177304977)
@@ -44,26 +44,31 @@ Gangnam-gu, Seoul, Republic of Korea
   * Developed REST API for the event, interlocking logic between the service and the external Payco member API, the entire front page, and the script that draws the event winners and matches user delivery information 
   * Completed the project in time with the cooperation of 2 programmers despite given 8 business days of very tight schedule
 
-#### TOAST Cloud Health Dashboard *(Dec 2016 - Nov 2016)*
+### Cloud Development Team
+
+#### TOAST Cloud Health Dashboard & Etc. *(Dec 2016 - Aug 2016)*
 
 * Used techniques: Java(Spring), HTML/CSS/Javascript, MySQL, Git(GitHub)
-* Project description: TOAST Cloud Health Dashboard is the web service which shows the availability of the entire services of TOAST Cloud and related products in real time. [Amazon AWS Service Health Dashboard](http://status.aws.amazon.com) is one of good comparison to this service. The main purpose of this project is to monitor every TOAST Cloud service availability in real time, provide it to the customer and most of all, respond to the unexpected service failure instantly. The core service and its API have been prepared in former step, so the main purpose of this project is to present it on the TOAST Cloud website.
+* Project description: TOAST Cloud Health Dashboard is the web service which shows the availability of the entire services of TOAST Cloud and related products in real time. [Amazon AWS Service Health Dashboard](http://status.aws.amazon.com) is one of good comparison to this service. The main purpose of this project is to monitor every TOAST Cloud service availability in real time, provide it to the customer and most of all, respond to the unexpected service failure instantly. The core service and its API have been prepared already, so the main purpose of this project is to present it on the TOAST Cloud website.
 * Product page(Korean): [https://cloud.toast.com/dashboard](https://cloud.toast.com/dashboard)
 * Achievement
   * Analyzed other dashboard services from major competitors leading the market such as Amazon, and composed summarized feature list from every detailed aspect of them for reporting
   * Conducted entire project from service planning to development only with design and markup support
+  * Maintained other products including TOAST Cloud CS&BBS and Email, participating code reviews with colleagues during the task.
+
+### Search Engineering Team
 
 #### Spell Checker API *(Jul 2016 - Jan 2016)*
 
 * Used techniques: C/C++(Apache module), Java(Spring), HTML/CSS/Javascript, Git(GitHub), Markdown(Confluence Wiki, GitHub)
-* Project description: Spell Checker API is a [TOAST Cloud](https://cloud.toast.com) product designed in RESTful web API. This API takes a certain Korean paragraph which is expected to have typos and returns back the corrected paragraph as the result. The spell checker engine was present, but was made of unsustainable old legacy code written in C programming language. The main objective of this project is to analyze, debug, refine the engine code and move it to Apache module program using C++ to build more convenient and sustainable web API. The product presentation page is made of Java, Spring.
+* Project description: Spell Checker API is a [TOAST Cloud](https://cloud.toast.com) product designed in RESTful web API. This API takes a certain Korean paragraph which is expected to have typos and returns the corrected paragraph as the result. The spell checker engine was present, but was made of unsustainable old legacy code written in C programming language. The main objective of this project is to analyze, debug, refine the engine code and move it to Apache module program using C++ to build more convenient and sustainable web API. The product presentation page is made of Java, Spring.
 * Product description page(Korean): [https://cloud.toast.com/service/spellchecker](https://cloud.toast.com/service/spellchecker)
 * User manual(Korean): [http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview](http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview)
 * Achievement
   * Analyzed old legacy errata correction engine code written in C programming language and performed code refactoring
   * Increased the engine performance and code readability by correcting critical bugs, adjusting internal cache algorithm and removing vague explanations in header files
   * Designed API server, TOAST Cloud product web page and program architecture on basis of the old legacy engine codes
-  * Developed API server using apache module programming, and product service page using Java, Spring
+  * Developed API server using Apache module programming, and product service page using Java, Spring
   * Acknowledged in refactoring project source codes and organizing documentation
   * Documented service description, manual, very detailed and well structured operating guide for internal service operators and developers in markdown language
 
@@ -73,12 +78,12 @@ Gangnam-gu, Seoul, Republic of Korea
 * Project description: The goal of this project is to collect and analyze [Payco](https://play.google.com/store/apps/details?id=com.nhnent.payapp) user payment logs and product search queries to gain valuable information and provide personalized ads to the customer.
 * Achievement
   * Utilized Hadoop cluster system and developed MR programs to analyze about 6 months of payment logs from millions of users
-  * Developed a web page to report summerized and visualized data
+  * Developed a web page to report summarized and visualized data
 
 #### Address Search API *(Jul 2016 - Apr 2015)*
 
 * Used techniques: C++, Java(Spring Boot), HTML/CSS/Javascript, Python, Shell Script, Git(GitHub), Markdown(Confluence Wiki, GitHub)
-* Project description: Address Search API is a [TOAST Cloud](https://cloud.toast.com) product which provides unified address search experience. South Korea currently has 2 different local address systems, one of which is old, deprecated but still present. Most competitors provide the service to search two addresses separately, which means the user can't search old address in new address search input box and vice versa, even two addresses mean same location. It also means it needs to be sure for users to know which kind of address it is before searching. This product has single search input to query two types of addresses without a care. The address search engine distinguishes address query and gives the search result. The Address Search API is designed in a RESTful way, Richardson Maturity Level 2.
+* Project description: Address Search API is a [TOAST Cloud](https://cloud.toast.com) product which provides unified address search experience. South Korea currently has 2 different local address systems, one of which is old, deprecated but still present. Most competitors provide the service to search two addresses separately, which means the user can't search old address in new address search input box and vice versa, even two addresses mean same location. It also means it needs to be sure for users to know which kind of address it is before searching. This product has single search input to query two types of addresses without a care. The address search engine distinguishes address query and gives the search result. The Address Search API is designed in a RESTful way, Richardson Maturity Level 2. The major clients of this service are TOAST Cloud users, other departments in the company, affiliates and cooperatives. The API requests per month is about 1.8 million.
 * Product description page(Korean): [https://cloud.toast.com/service/addresssearch](https://cloud.toast.com/service/addresssearch)
 * User manual(Korean): [http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview](http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview)
 * Service architecture
@@ -96,45 +101,22 @@ Gangnam-gu, Seoul, Republic of Korea
 
 # Internship Experience & Etc.
 
-## BC Card, Seoul, South Korea *(Aug 2014 – June 2014)*
+## BC Card, Intern, Seoul, South Korea *(Aug 2014 – June 2014)*
 
-### Intern
-
-* Developed test modules (C++, Pro\*C, Oracle)
-* Performed testing more than 200 subprograms containing SQL transactions
-
-## NAVER, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
-
-### Natural Language Processing Team (NLP), Intern
-
-* Developed spell check resource management system (HTML, PHP, Javascript, MySQL)
-* Composed technical documents about overall functions and usage of the system
-* Demonstrated complete system in front of the team
+## NAVER, Natural Language Processing Team Intern, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
 
 ## NAVER Software Membership, Seoul, South Korea *(Aug 2013 – Feb 2013)*
 
-### Project K3 – Web Based Music Composition Program
-
-* Developed real-time music composition program based on Web Audio API
-* Assumed composition module development part
-* Demo(Korean): [http://youtu.be/dcpifU3yHms](http://youtu.be/dcpifU3yHms)
-
-## Concept One Accessories, New York, United States *(Feb 2011 – Jul 2010)*
-
-### MIS/Operations, Intern
-
-* Managed various kinds of documents, reports and Excel spreadsheets
-* Automated producing reports and conducting tasks using VBA script language
-* Performed various kind of IT support
-
-## Private Tutor, Cram School, Seoul, South Korea *(Dec 2007 – Dec 2006)*
-
-* Taught English to middle/high school students
+## Concept One Accessories, MIS/Operations Intern, New York, United States *(Feb 2011 – Jul 2010)*
 
 
 # Extracurricular Activity
 
+## Korean Translation, Bitbucket *(Now - Aug 2017)*
 
+* Bitbucket: The git hosting service by Atlassian ([https://bitbucket.org](https://bitbucket.org/))
+* Translating entire web services under Bitbucket project (current status: 58%)
+* Translation Tool: [https://www.transifex.com/atlassian/bitbucketorg/](https://www.transifex.com/atlassian/bitbucketorg/)
 
 ## Open Source Contributor, Flybook *(Now - Jun 2017)*
 
@@ -148,10 +130,10 @@ This resume is published by Flybook.
 
 ## Korean Translation, Bitbeaker *(May 2017 - Nov 2016)*
 
-* Bitbeaker: Android client for Atlassian Bitbucket ([https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker))
+* Bitbeaker: An Android client for Atlassian Bitbucket ([https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker))
 * Translated entire android application and Google Play Store app description page
 * Issue: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
-* Translation: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
+* Translation Tool: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 
 ## Hackathon, Opencamp, Zeropage of Chung-Ang University *(Apr 2014)*
 
@@ -163,10 +145,6 @@ This resume is published by Flybook.
   * Selected 3 members (2 app programmers, 1 designer)
   * Directed entire work and distributed roles to members
   * Programmed core logic: dynamic volume control using low-pass filter algorithm
-
-## Club Festival Exhibition, SoongSil Computer Club of Soongsil University *(Sep 2011 - Sep 2005)*
-
-* Directed various C programming project exhibitions 3 times
 
 
 # Language
@@ -181,9 +159,12 @@ This resume is published by Flybook.
 
 * Playing piano
 * Sports and exercises like workout, crossfit, badminton and sport climbing
-* Reading, scrapping and sometimes writing technical articles from tech blogs such as [TOAST Meetup](http://meetup.toast.com), [Kakao Tech Blog](http://tech.kakao.com), [Naver D2 Hello World](http://d2.naver.com/helloworld), including personal tech blogs like [Outsider's Dev Story](https://blog.outsider.ne.kr).
+* Reading, scrapping and writing technical articles
+  * Personal tech blog: [https://djkeh.github.io](https://djkeh.github.io/)
+  * Recent visit: [TOAST Meetup](http://meetup.toast.com), [Kakao Tech Blog](http://tech.kakao.com), [Naver D2 Hello World](http://d2.naver.com/helloworld), including personal tech blogs like [Outsider's Dev Story](https://blog.outsider.ne.kr), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/)
 
 
 # Etc.
 
 * Military service: army, honorable discharge
+
