@@ -26,7 +26,7 @@ Gangnam-gu, Seoul, Republic of Korea
 
 * Used techniques: Java (Spring Boot), HTML/CSS/Javascript, MySQL, Git (GitHub)
 * Project description: TOAST Meetup is the technical blog run by NHN Entertainment. Its goal is to share valuable information and programming trends to the public and thereby drag other programmers' attention to the brand TOAST and relevant products. NHN Entertainment is thinking of developing a brand new version of TOAST Meetup from the inside, which I simply call "V2 (Version 2)" for now, to improve the service quality and reduce its operation cost. This is currently ongoing project.
-* Product page: [http://meetup.toast.com](http://meetup.toast.com)
+* Product page: [http://meetup.toast.com](http://meetup.toast.com/)
 * Achievement
   * Analyzing current TOAST Meetup service to find out what the problem is and what should be corrected to enhance work efficiency
   * Conducting V2 project from service planning to development only with design and markup support
@@ -61,7 +61,7 @@ Gangnam-gu, Seoul, Republic of Korea
 #### Spell Checker API *(Jul 2016 - Jan 2016)*
 
 * Used techniques: C/C++(Apache module), Java(Spring), HTML/CSS/Javascript, Git(GitHub), Markdown(Confluence Wiki, GitHub)
-* Project description: Spell Checker API is a [TOAST Cloud](https://cloud.toast.com) product designed in RESTful web API. This API takes a certain Korean paragraph which is expected to have typos and returns the corrected paragraph as the result. The spell checker engine was present, but was made of unsustainable old legacy code written in C programming language. The main objective of this project is to analyze, debug, refine the engine code and move it to Apache module program using C++ to build more convenient and sustainable web API. The product presentation page is made of Java, Spring.
+* Project description: Spell Checker API is a [TOAST Cloud](https://cloud.toast.com/) product designed in RESTful web API. This API takes a certain Korean paragraph which is expected to have typos and returns the corrected paragraph as the result. The spell checker engine was present, but was made of unsustainable old legacy code written in C programming language. The main objective of this project is to analyze, debug, refine the engine code and move it to Apache module program using C++ to build more convenient and sustainable web API. The product presentation page is made of Java, Spring.
 * Product description page(Korean): [https://cloud.toast.com/service/spellchecker](https://cloud.toast.com/service/spellchecker)
 * User manual(Korean): [http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview](http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview)
 * Achievement
@@ -83,7 +83,7 @@ Gangnam-gu, Seoul, Republic of Korea
 #### Address Search API *(Jul 2016 - Apr 2015)*
 
 * Used techniques: C++, Java(Spring Boot), HTML/CSS/Javascript, Python, Shell Script, Git(GitHub), Markdown(Confluence Wiki, GitHub)
-* Project description: Address Search API is a [TOAST Cloud](https://cloud.toast.com) product which provides unified address search experience. South Korea currently has 2 different local address systems, one of which is old, deprecated but still present. Most competitors provide the service to search two addresses separately, which means the user can't search old address in new address search input box and vice versa, even two addresses mean same location. It also means it needs to be sure for users to know which kind of address it is before searching. This product has single search input to query two types of addresses without a care. The address search engine distinguishes address query and gives the search result. The Address Search API is designed in a RESTful way, Richardson Maturity Level 2. The major clients of this service are TOAST Cloud users, other departments in the company, affiliates and cooperatives. The API requests per month is about 1.8 million.
+* Project description: Address Search API is a [TOAST Cloud](https://cloud.toast.com/) product which provides unified address search experience. South Korea currently has 2 different local address systems, one of which is old, deprecated but still present. Most competitors provide the service to search two addresses separately, which means the user can't search old address in new address search input box and vice versa, even two addresses mean same location. It also means it needs to be sure for users to know which kind of address it is before searching. This product has single search input to query two types of addresses without a care. The address search engine distinguishes address query and gives the search result. The Address Search API is designed in a RESTful way, Richardson Maturity Level 2. The major clients of this service are TOAST Cloud users, other departments in the company, affiliates and cooperatives. The API requests per month is about 1.8 million.
 * Product description page(Korean): [https://cloud.toast.com/service/addresssearch](https://cloud.toast.com/service/addresssearch)
 * User manual(Korean): [http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview](http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview)
 * Service architecture
@@ -161,7 +161,7 @@ This resume is published by Flybook.
 * Sports and exercises like workout, crossfit, badminton and sport climbing
 * Reading, scrapping and writing technical articles
   * Personal tech blog: [https://djkeh.github.io](https://djkeh.github.io/)
-  * Recent visit: [TOAST Meetup](http://meetup.toast.com), [Kakao Tech Blog](http://tech.kakao.com), [Naver D2 Hello World](http://d2.naver.com/helloworld), including personal tech blogs like [Outsider's Dev Story](https://blog.outsider.ne.kr), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/)
+  * Recent visit: [TOAST Meetup](http://meetup.toast.com/), [Kakao Tech Blog](http://tech.kakao.com/), [Naver D2 Hello World](http://d2.naver.com/helloworld), including personal tech blogs like [Outsider's Dev Story](https://blog.outsider.ne.kr/), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/)
 
 
 # Etc.

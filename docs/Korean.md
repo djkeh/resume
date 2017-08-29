@@ -68,7 +68,7 @@ TOAST Meetup은 NHN 엔터테인먼트에서 운영하는 기술 블로그입니
 
 * 주 사용 기술: Java(Spring), 웹프로그래밍(HTML/CSS/Javascript), MySQL, Git(GitHub)
 
-TOAST Cloud Health Dashboard는 TOAST Cloud([https://cloud.toast.com](https://cloud.toast.com)) 서비스의 인프라를 포함해 내부에 있는 모든 부가 상품들의 서버 가용 상태를 모니터링하는 서비스입니다. TOAST Cloud의 하위 서비스 형태로 진행했으며, 상품 기획부터 서버 - 프론트엔드까지 직접 설계하였습니다. 모니터링 기능은 사전에 개발하여 운영 중인 별도의 사내 모니터링 API를 활용하였습니다.
+TOAST Cloud Health Dashboard는 TOAST Cloud([https://cloud.toast.com](https://cloud.toast.com/)) 서비스의 인프라를 포함해 내부에 있는 모든 부가 상품들의 서버 가용 상태를 모니터링하는 서비스입니다. TOAST Cloud의 하위 서비스 형태로 진행했으며, 상품 기획부터 서버 - 프론트엔드까지 직접 설계하였습니다. 모니터링 기능은 사전에 개발하여 운영 중인 별도의 사내 모니터링 API를 활용하였습니다.
 
 [https://cloud.toast.com/dashboard](https://cloud.toast.com/dashboard)
 
