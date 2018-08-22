@@ -1,7 +1,7 @@
 # Eunho Kim
 
 Server Programmer (Java, Spring)  
-Gangnam-gu, Seoul, Republic of Korea  
+Gyeonggi-do, Republic of Korea  
 +82-10-2778-5309  
 [djkehh@gmail.com](mailto:djkehh@gmail.com)
 
@@ -15,14 +15,25 @@ Gangnam-gu, Seoul, Republic of Korea
 
 # Work Experience
 
-## NHN Entertainment, Gyeonggi-do, South Korea *(Now – Jan 2015)*
+## Kakaopay, Gyeonggi-do, South Korea *(Now - Sep 2017)*
+
+* Web application back-end programmer
+* Java, Spring
+
+### Supercell (Settlement Team)
+
+#### Unified Settlement Platform *(Now - Apr 2018)*
+
+* Used techniques: Java (Spring Boot), HTML/CSS/Javascript/React, MySQL, Git (GitHub)
+
+## NHN Entertainment, Gyeonggi-do, South Korea *(Sep 2017 – Jan 2015)*
 
 * Web application back-end programmer
 * Java, Spring
 
 ### O2O Service Development Team
 
-#### TOAST Meetup *(Now - Apr 2017)*
+#### TOAST Meetup *(Sep 2017 - Apr 2017)*
 
 * Used techniques: Java (Spring Boot), HTML/CSS/Javascript, MySQL, Git (GitHub)
 * Project description: TOAST Meetup is the technical blog run by NHN Entertainment. Its goal is to share valuable information and programming trends to the public and thereby drag other programmers' attention to the brand TOAST and relevant products. NHN Entertainment is thinking of developing a brand new version of TOAST Meetup from the inside, which I simply call "V2 (Version 2)" for now, to improve the service quality and reduce its operation cost. This is currently ongoing project.

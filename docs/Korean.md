@@ -1,7 +1,7 @@
 # 김은호
 
 서버 프로그래머 (Java, Spring)  
-대한민국, 서울시 강남구 거주  
+대한민국, 경기도 거주  
 010-2778-5309  
 [djkehh@gmail.com](mailto:djkehh@gmail.com)
 
@@ -15,14 +15,31 @@
 
 # 주업무 경험
 
-## NHN 엔터테인먼트 *(2015년 1월 ~ 현재)*
+## 카카오페이 *(2017년 9월 ~ 현재)*
+
+* 웹 애플리케이션 백엔드 프로그래머
+* Java, Spring
+
+### 수퍼셀 (정산개발팀)
+
+카카오페이는 누적 가입자 2250만 명, 가맹점 약 240만 개, 월 거래액 약 1조원의 지표를 가진 간편결제 서비스입니다. 여기서 일어나는 주요 결제 내용의 정산 작업을 담당하는 시스템을 개발 및 유지 보수합니다.
+
+#### 통합 정산 플랫폼 *(2018년 4월 ~ 현재)*
+
+* 주 사용 기술: Java(Spring Boot), 웹프로그래밍(HTML/CSS/Javascript/React), MySQL, Git(GitHub)
+
+카카오페이의 구 정산 플랫폼을 대체할 차세대 정산 플랫폼을 설계하는 업무입니다. 기존의 정산 플랫폼 운영을 통해 배웠던 경험을 토대로 보다 넓은 사용자 요구 사항에 유연하게 대응할 수 있는 시스템을 설계하는 것을 목표로 작업하였습니다. 2주 설계 기간, 2주 개발 기간을 합쳐 총 1달 동안 진행하였고, 이후 새로운 요구사항을 계속 반영하며 운영 중입니다.
+
+통합 정산 플랫폼은 도메인 및 도메인 관계, 데이터 흐름, 배치 업무, api 및 운영자용 관리 페이지로 구성되어 있습니다. 이 내용의 초기 설계부터 개발까지 전체 과정을 나누어 담당하였습니다.
+
+## NHN 엔터테인먼트 *(2015년 1월 ~ 2017년 9월)*
 
 * 웹 애플리케이션 백엔드 프로그래머
 * Java, Spring
 
 ### O2O서비스개발팀
 
-#### TOAST Meetup *(2017년 4월 ~ 현재)*
+#### TOAST Meetup *(2017년 4월 ~ 2017년 9월)*
 
 * 주 사용 기술: Java(Spring Boot), 웹프로그래밍(HTML/CSS/Javascript), MySQL, Git(GitHub)
 
@@ -30,9 +47,9 @@ TOAST Meetup은 NHN 엔터테인먼트에서 운영하는 기술 블로그입니
 
 [http://meetup.toast.com](http://meetup.toast.com/)
 
-우선순위가 밀려 그간 잘 운영되지 못했던 서비스의 운영 및 리뉴얼을 기획, 개발하는 업무를 맡았습니다. 기존 프로젝트는 외주를 맡겨 개발했는데, 여러 가지 버그로 문제가 많았지만 소스코드를 소유하지 않아 유지보수가 불가능했습니다. TOAST Meetup의 리뉴얼은 처음부터 완전히 새로운 기획과 개발로, 기존 프로젝트의 코드 참조 없이 처음부터 소스코드를 작성하는 방향으로 결정되었습니다.
+우선 순위가 밀려 그간 잘 운영되지 못했던 서비스의 운영 및 리뉴얼을 기획, 개발하는 업무를 맡았습니다. 기존 프로젝트는 외주를 맡겨 개발했는데, 여러 가지 버그로 문제가 많았지만 소스코드를 소유하지 않아 유지 보수가 불가능했습니다. TOAST Meetup의 리뉴얼은 처음부터 완전히 새로운 기획과 개발로, 기존 프로젝트의 코드 참조 없이 처음부터 소스코드를 작성하는 방향으로 결정되었습니다.
 
-본 프로젝트는 다음의 단계로 진행 중입니다.
+본 프로젝트는 다음의 단계로 진행하였습니다.
 
 1. 새로운 기술 문서를 발굴하여 콘텐츠 확보
 2. 발굴한 기술 문서들을 검수하여 일정 수준 이상의 콘텐츠 품질 확보
@@ -48,19 +65,14 @@ TOAST Meetup은 NHN 엔터테인먼트에서 운영하는 기술 블로그입니
 * Android: [https://play.google.com/store/apps/details?id=com.nhnent.unse&hl=ko](https://play.google.com/store/apps/details?id=com.nhnent.unse&hl=ko)
 * iPhone: [https://itunes.apple.com/app/id1177304977](https://itunes.apple.com/app/id1177304977)
 
-본 프로젝트는 페이코 신규 회원 유치를 목적으로 운수도원 앱의 설날 명절 이벤트를 진행하여 신규 운수도원 가입 유저와 그 추천인들에게 경품을 제공하는 프로젝트입니다. 기존까지 참여했던 프로젝트와는 달리 다음과 같은 특징을 갖고 있었습니다.
-
-* 명절에 맞춰 진행하는 이벤트 특성상 개발 완료 기한이 완전히 고정됨
-* 이벤트 코드와 DB를 유지할 계획이 없는 단발성 프로젝트
-* 비교적 짧은 개발 기간으로 약 8영업일이 할당됨
-
-이에 다음과 같이 프로젝트에 참여하였고, 기한에 맞춰 무사히 이벤트를 진행하였습니다.
+본 프로젝트의 목표는 페이코 신규 회원을 효과적으로 끌어들이기 위해, 운수도원 앱의 설날 명절 이벤트를 진행하여 신규 운수도원 가입 유저와 그 추천인들에게 경품을 제공하는 것입니다. 이에 다음과 같이 프로젝트를 진행하였습니다.
 
 * 이벤트 페이지 개발 (4일)
-  * 웹, 웹뷰에 보이는 화면 및 내부 API 개발 
-  * 페이코 회원 정보 조회를 위해 타부서의 페이코 회원 API 연동 
+  * 웹, 웹뷰에 보이는 화면 및 내부 API 개발
+  * 페이코 회원 정보 조회를 위해 타부서의 페이코 회원 API 연동
 * 추첨 및 당첨자 리스트 출력 로직 개발 (4일)
   * DB로부터 당첨자를 뽑아 배송을 위한 개인정보를 매칭하여 출력하는 스크립트 개발
+* 배포 및 운영
 
 ### 클라우드개발팀
 
@@ -132,23 +144,11 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 # 과외 활동
 
-## 한글화, 아틀라시안 비트버킷 *(2017년 8월 ~ 현재)*
-
-비트버킷(Bitbucket)은 Atlassian의 Git 호스팅 서비스입니다.
-
-[https://bitbucket.org](https://bitbucket.org/)
-
-비트버킷의 웹페이지를 한글화하는 작업입니다. 이제 막 시작한 단계이고, 다른 번역자들과 함꼐 번역 작업을 진행 중입니다. 번역률은 현재 약 58% 입니다.
-
-* 번역 도구: [https://www.transifex.com/atlassian/bitbucketorg/dashboard/](https://www.transifex.com/atlassian/bitbucketorg/dashboard/)
-
-## 오픈소스 컨트리뷰터, Flybook *(2017년 6월 ~ 현재)*
+## 오픈소스 컨트리뷰터, Flybook *(2017년 6월)*
 
 Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim) 님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어 영향을 받았으며, React와 React DOM Server를 사용하였습니다.
 
 [https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
-
-이 오픈소스 프로젝트를 윈도우 환경에서 테스트하여 문제점이 있다면 issue로 보고하고, 공식 문서를 첨삭하는 역할을 수행하고 있습니다. 앞으로도 이 오픈소스 프로젝트의 품질 향상을 위해 활동을 계속할 예정입니다.
 
 * 참여 내용
   * [https://github.com/rhiokim/flybook/issues/18](https://github.com/rhiokim/flybook/issues/18)
@@ -197,10 +197,9 @@ Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 �
 * 헬스, 크로스핏, 배드민턴, 스포츠 클라이밍과 같은 운동
 * 기술 블로그 글 읽기/수집하기/쓰기
   * 개인 기술 블로그: [https://djkeh.github.io](https://djkeh.github.io/)
-  * 최근 읽은 블로그: [TOAST Meetup](http://meetup.toast.com/), [Kakao Tech Blog](http://tech.kakao.com/), [Naver D2 Hello World](http://d2.naver.com/helloworld), 개인 블로그 [Outsider's Dev Story](https://blog.outsider.ne.kr/), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/) 등 
+  * 관심 있는 블로그: [TOAST Meetup](http://meetup.toast.com/), [Kakao Tech Blog](http://tech.kakao.com/), [Naver D2 Hello World](http://d2.naver.com/helloworld), 개인 블로그 [Outsider's Dev Story](https://blog.outsider.ne.kr/), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/) 등
 
 
 # 기타
 
 * 병역: 육군, 만기제대
-
