@@ -17,7 +17,7 @@
         "pages": "gh-pages -d out -m \"Update flybook pages on `gh-pages` branch\""
     },
     "devDependencies": {
-        "flybook": "^1.4.4",
-        "gh-pages": "^1.0.0"
+        "flybook": "^1.4.5",
+        "gh-pages": "^1.2.0"
     }
 }
