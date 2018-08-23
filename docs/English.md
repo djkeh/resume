@@ -8,7 +8,7 @@ Gyeonggi-do, Republic of Korea
 
 # Education
 
-### Graduate, Soongsil University, Seoul, South Korea *(Feb 2014 – Mar 2005)*
+## Graduate, Soongsil University, Seoul, South Korea *(Feb 2014 – Mar 2005)*
 
 * A Bachelor Degree in Telecommunications & Electronic Engineering
 
@@ -22,9 +22,16 @@ Gyeonggi-do, Republic of Korea
 
 ### Supercell (Settlement Team)
 
+Kakaopay is the simple payment service which has 22.5 accumulated users, 2.4 million partners and 1 trillion monthly turnover. Our role is to design and develop the settlement platform that deals with almost every payment transaction data.
+
 #### Unified Settlement Platform *(Now - Apr 2018)*
 
 * Used techniques: Java (Spring Boot), HTML/CSS/Javascript/React, MySQL, Git (GitHub)
+* Project description: Unified settlement platform takes responsibility of settling payment transactions from various channels including online, offline, card, point and etc. to respond to the different user requirements with flexibility.
+* Achievement
+  * Designed domain models and their relationships of the unified settlement platform considering variety of business workflows
+  * Developed domain, main system, api, batch process and web admin dashboard
+  * Maintaining and improving the system functionality by reflecting continuous user feedbacks, new issues and requests from new contracts
 
 ## NHN Entertainment, Gyeonggi-do, South Korea *(Sep 2017 – Jan 2015)*
 
@@ -36,12 +43,12 @@ Gyeonggi-do, Republic of Korea
 #### TOAST Meetup *(Sep 2017 - Apr 2017)*
 
 * Used techniques: Java (Spring Boot), HTML/CSS/Javascript, MySQL, Git (GitHub)
-* Project description: TOAST Meetup is the technical blog run by NHN Entertainment. Its goal is to share valuable information and programming trends to the public and thereby drag other programmers' attention to the brand TOAST and relevant products. NHN Entertainment is thinking of developing a brand new version of TOAST Meetup from the inside, which I simply call "V2 (Version 2)" for now, to improve the service quality and reduce its operation cost. This is currently ongoing project.
+* Project description: TOAST Meetup is the technical blog run by NHN Entertainment. Its goal is to share valuable information and programming trends to the public and thereby drag other programmers' attention to the brand TOAST and relevant products. This project aims to develop a brand new version of TOAST Meetup to improve the service quality and reduce its operation cost.
 * Product page: [http://meetup.toast.com](http://meetup.toast.com/)
 * Achievement
-  * Analyzing current TOAST Meetup service to find out what the problem is and what should be corrected to enhance work efficiency
-  * Conducting V2 project from service planning to development only with design and markup support
-  * Managing blog operations such as contacting the author, revising articles and publishing to the blog
+  * Analyzed current TOAST Meetup service to find out what the problem is and what should be corrected to enhance work efficiency
+  * Conducted V2 project from service planning to development only with ui design and markup support
+  * Managed blog operations such as contacting the author, revising articles and publishing to the blog
 
 #### Unsudowon, Friend Recommendation Event *(Mar 2017 - Jan 2017)*
 
@@ -123,19 +130,13 @@ Gyeonggi-do, Republic of Korea
 
 # Extracurricular Activity
 
-## Korean Translation, Atlassian Bitbucket *(Now - Aug 2017)*
-
-* Bitbucket: The git hosting service by Atlassian ([https://bitbucket.org](https://bitbucket.org/))
-* Translating entire web services under Bitbucket project (current status: 58%)
-* Translation Tool: [https://www.transifex.com/atlassian/bitbucketorg/](https://www.transifex.com/atlassian/bitbucketorg/)
-
 ## Open Source Contributor, Flybook *(Now - Jun 2017)*
 
 * Flybook: A utility to generate static website from markdown document ([https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook))
-* Participating the project as a contributor
-* Testing software in Windows user environment which was not properly tested and thereby desired by the project master
-* Reporting issues through GitHub
-* Revising official project documents
+* Participated in the project as a contributor
+* Tested the project in Windows user environment of which detailed functionalities were not properly tested
+* Reported issues through GitHub
+* Revised official project documents
 
 This resume is published by Flybook.
 
