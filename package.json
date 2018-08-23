@@ -14,10 +14,12 @@
     "scripts": {
         "docs-dev": "flybook docs --outdir=out --silent --font=Noto+Sans --codeStyle=androidstudio --theme=light",
         "docs": "flybook docs --outdir=out --prod --silent --font=Noto+Sans --codeStyle=androidstudio --theme=light",
-        "pages": "gh-pages -d out -m \"Update flybook pages on `gh-pages` branch\""
+        "ghpages": "gh-pages -d out -m \"Update flybook pages on `gh-pages` branch\"",
+        "pushdir": "push-dir --dir=out --branch=gh-pages --verbose"
     },
     "devDependencies": {
         "flybook": "^1.4.5",
-        "gh-pages": "^1.2.0"
+        "gh-pages": "^1.2.0",
+        "push-dir": "^0.4.1"
     }
 }
