@@ -146,15 +146,9 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 ## 오픈소스 컨트리뷰터, Flybook *(2017년 6월)*
 
-Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim) 님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어 영향을 받았으며, React와 React DOM Server를 사용하였습니다.
+Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim) 님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어를 얻었으며, React와 React DOM Server를 사용하였습니다. 저는 본 프로젝트에 사용자 피드백과 테스트, 버그 리포트, 문서 업데이트를 통해 컨트리뷰터로 참여하였습니다.
 
 [https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
-
-* 참여 내용
-  * [https://github.com/rhiokim/flybook/issues/18](https://github.com/rhiokim/flybook/issues/18)
-  * [https://github.com/rhiokim/flybook/issues/13](https://github.com/rhiokim/flybook/issues/13)
-  * [https://github.com/rhiokim/flybook/issues/1](https://github.com/rhiokim/flybook/issues/1)
-  * [https://github.com/rhiokim/flybook/pull/14](https://github.com/rhiokim/flybook/pull/14)
 
 본 이력서는 Flybook을 이용하여 만들어졌습니다.
 
