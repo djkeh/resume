@@ -22,7 +22,7 @@ Gyeonggi-do, Republic of Korea
 
 ### Supercell (Settlement Team)
 
-Kakaopay is the simple payment service which has 22.5 accumulated users, 2.4 million partners and 1 trillion monthly turnover. Our role is to design and develop the settlement platform that deals with almost every payment transaction data.
+Kakaopay is the simple payment service which has 22.5 million accumulated users, 2.4 million partners and 1 trillion monthly turnover. Our role is to design and develop the settlement platform that deals with almost every payment transaction data.
 
 #### Unified Settlement Platform *(Now - Apr 2018)*
 
