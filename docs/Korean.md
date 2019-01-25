@@ -1,30 +1,37 @@
 # 김은호
 
-서버 프로그래머 (Java, Spring)  
+웹 애플리케이션 서버 프로그래머 (Java, Spring)  
 대한민국, 경기도 거주  
 010-2778-5309  
 [djkehh@gmail.com](mailto:djkehh@gmail.com)
 
 
-# 학력
+## 학력
 
-## 숭실대, 졸업 *(2005년 3월 ~ 2014년 2월)*
+### 숭실대, 졸업 *(2005년 3월 ~ 2014년 2월)*
 
 * 정보통신전자공학부
 
 
-# 주업무 경험
+## 주업무 경험
 
-## 카카오페이 *(2017년 9월 ~ 현재)*
+### 카카오커머스 *(2018년 12월 ~ 현재)*
+
+* 웹 애플리케이션 백엔드 프로그래머
+* Java, Groovy, Spring
+
+현재 카카오커머스 정산플랫폼개발팀에서 백엔드 프로그래머로 일하고 있습니다.
+
+### 카카오페이 *(2017년 9월 ~ 2018년 12월)*
 
 * 웹 애플리케이션 백엔드 프로그래머
 * Java, Spring
 
-### 수퍼셀 (정산개발팀)
+#### 수퍼셀 (정산개발팀)
 
 카카오페이는 누적 가입자 2250만 명, 가맹점 약 240만 개, 월 거래액 약 1조원의 지표를 가진 간편결제 서비스입니다. 여기서 일어나는 주요 결제 내용의 정산 작업을 담당하는 시스템을 개발 및 유지 보수합니다.
 
-#### 통합 정산 플랫폼 *(2018년 4월 ~ 현재)*
+##### 통합 정산 플랫폼 *(2018년 4월 ~ 2018년 12월)*
 
 * 주 사용 기술: Java(Spring Boot), 웹프로그래밍(HTML/CSS/Javascript/React), MySQL, Git(GitHub)
 
@@ -32,14 +39,14 @@
 
 통합 정산 플랫폼은 도메인 및 도메인 관계, 데이터 흐름, 배치 업무, api 및 운영자용 관리 페이지로 구성되어 있습니다. 이 내용의 초기 도메인 설계부터 기술 선택, 개발까지 전체 과정을 팀원들과 함께 논의하고, 서로 나누어 담당하였습니다.
 
-## NHN 엔터테인먼트 *(2015년 1월 ~ 2017년 9월)*
+### NHN 엔터테인먼트 *(2015년 1월 ~ 2017년 9월)*
 
 * 웹 애플리케이션 백엔드 프로그래머
 * Java, Spring
 
-### O2O서비스개발팀
+#### O2O서비스개발팀
 
-#### TOAST Meetup *(2017년 4월 ~ 2017년 9월)*
+##### TOAST Meetup *(2017년 4월 ~ 2017년 9월)*
 
 * 주 사용 기술: Java(Spring Boot), 웹프로그래밍(HTML/CSS/Javascript), MySQL, Git(GitHub)
 
@@ -56,7 +63,7 @@ TOAST Meetup은 NHN 엔터테인먼트에서 운영하는 기술 블로그입니
 3. TOAST Meetup V2 프로젝트 기획: 현재 블로그의 문제점과 사용성을 개선한 웹서비스 설계, 기획
 4. TOAST Meetup V2 개발
 
-#### 운수도원, 친구 추천 이벤트 *(2017년 1월 ~ 2017년 3월)*
+##### 운수도원, 친구 추천 이벤트 *(2017년 1월 ~ 2017년 3월)*
 
 * 주 사용 기술: Java(Spring), 웹프로그래밍(HTML/CSS/Javascript), Shell Script, Python, MySQL, Git(GitHub)
 
@@ -74,9 +81,9 @@ TOAST Meetup은 NHN 엔터테인먼트에서 운영하는 기술 블로그입니
   * DB로부터 당첨자를 뽑아 배송을 위한 개인정보를 매칭하여 출력하는 스크립트 개발
 * 배포 및 운영
 
-### 클라우드개발팀
+#### 클라우드개발팀
 
-#### TOAST Cloud Health Dashboard 외 *(2016년 8월 ~ 2016년 12월)*
+##### TOAST Cloud Health Dashboard 외 *(2016년 8월 ~ 2016년 12월)*
 
 * 주 사용 기술: Java(Spring), 웹프로그래밍(HTML/CSS/Javascript), MySQL, Git(GitHub)
 
@@ -86,9 +93,9 @@ TOAST Cloud Health Dashboard는 TOAST Cloud([https://cloud.toast.com](https://cl
 
 이 외에 TOAST Cloud CS&BBS, Email 등 클라우드 부속 상품들의 자잘한 유지 보수 업무를 수행하였고, 수시로 팀원들과 함께 코드 리뷰를 진행하였습니다.
 
-### 검색기술팀
+#### 검색기술팀
 
-#### 맞춤법 검사기 API *(2016년 1월 ~ 2016년 7월)*
+##### 맞춤법 검사기 API *(2016년 1월 ~ 2016년 7월)*
 
 * 주 사용 기술: C/C++(아파치 모듈 프로그래밍), Java(Spring), 웹프로그래밍(HTML/CSS/Javascript), Git(GitHub)
 
@@ -99,7 +106,7 @@ TOAST Cloud 부속 상품인 맞춤법 검사기 API 개발 프로젝트입니�
 * 제품 설명: [https://cloud.toast.com/service/spellchecker](https://cloud.toast.com/service/spellchecker)
 * 사용자 도움말: [http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview](http://docs.cloud.toast.com/ko/Upcoming%20Products/Spell%20Checker/ko/Overview)
 
-#### 페이코 초기 사용자 결제/질의 로그 분석 *(2015년 10월 ~ 2016년 1월)*
+##### 페이코 초기 사용자 결제/질의 로그 분석 *(2015년 10월 ~ 2016년 1월)*
 
 * 주 사용 기술: Java(Hadoop MR, Streaming), 웹프로그래밍(HTML/CSS/Javascript), Python, Shell Script, Git(GitHub)
 
@@ -107,7 +114,7 @@ TOAST Cloud 부속 상품인 맞춤법 검사기 API 개발 프로젝트입니�
 
 또한, 상부 보고용 단발성 프로젝트로 검색 질의 로그의 분석 결과 화면을 설계하였습니다.
 
-#### 도로명 주소 통합 검색 API *(2015년 4월 ~ 2016년 7월)*
+##### 도로명 주소 통합 검색 API *(2015년 4월 ~ 2016년 7월)*
 
 * 주 사용 기술: C++(넥서스 검색엔진), Java(Spring Boot), 웹프로그래밍(HTML/CSS/Javascript), Python, Shell Script, Git(GitHub)
 
@@ -131,28 +138,34 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 * 사용자 매뉴얼: [http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview](http://docs.cloud.toast.com/ko/Common/Address%20Search/ko/Overview)
 
 
-# 기타 업무 경험 (인턴쉽 & 기타)
+## 기타 업무 경험 (인턴쉽 & 기타)
 
-## BC 카드, 인턴 *(2014년 6월 ~ 2014년 8월)*
+### BC 카드, 인턴 *(2014년 6월 ~ 2014년 8월)*
 
-## NAVER, 자연어처리팀, 인턴 *(2013년 9월 ~ 2014년 1월)*
+### NAVER, 자연어처리팀, 인턴 *(2013년 9월 ~ 2014년 1월)*
 
-## NAVER 소프트웨어 멤버쉽 *(2013년 2월 ~ 2013년 8월)*
+### NAVER 소프트웨어 멤버쉽 *(2013년 2월 ~ 2013년 8월)*
 
-## Concept One Accessories, MIS/Operations, 인턴 *(2010년 7월 ~ 2011년 2월)*
+### Concept One Accessories, MIS/Operations, 인턴 *(2010년 7월 ~ 2011년 2월)*
 
 
-# 과외 활동
+## 과외 활동
 
-## 오픈소스 컨트리뷰터, Flybook *(2017년 6월)*
+### 오픈소스 컨트리뷰터, gitignore.io *(2018년 12월 ~ 현재)*
 
-Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim) 님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어를 얻었으며, React와 React DOM Server를 사용하였습니다. 저는 본 프로젝트에 사용자 피드백과 테스트, 버그 리포트, 문서 업데이트를 통해 컨트리뷰터로 참여하였습니다.
+[gitignore.io](https://www.gitignore.io/)는 언어, 프레임워크 및 도구 별로 보편적인 `.gitignore` 설정을 템플릿으로 모아두었다가 손쉽게 작성할 수 있도록 도와주는 유명 웹서비스입니다. 트위터, 아마존, 구글, 페이스북, 마이크로소프트, airbnb 등 최고의 IT 기업들이 이 서비스를 사용하였습니다. 저는 본 프로젝트 이슈 [#435](https://github.com/joeblau/gitignore.io/issues/435)를 해결하는 코드를 제출하여 컨트리뷰터가 되었고, 지속적으로 이 프로젝트에 관심을 가지고 참여하고 있습니다.
+
+[https://github.com/joeblau/gitignore.io](https://github.com/joeblau/gitignore.io)
+
+### 오픈소스 컨트리뷰터, Flybook *(2017년 6월 ~ 현재)*
+
+[Flybook](https://flybook.js.org/)은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim) 님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어를 얻었으며, React와 React DOM Server를 사용하였습니다. 저는 본 프로젝트에 사용자 피드백과 테스트, 버그 리포트, 문서 업데이트를 통해 컨트리뷰터로 참여하였습니다.
 
 [https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
 
 본 이력서는 Flybook을 이용하여 만들어졌습니다.
 
-## 한글화, 비트비커 *(2016년 11월 ~ 2017년 5월)*
+### 한글화, 비트비커 *(2016년 11월 ~ 2017년 5월)*
 
 비트비커(Bitbeaker)는 Atlassian Bitbucket의 안드로이드 클라이언트입니다.
 
@@ -163,7 +176,7 @@ Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 �
 * 이슈: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
 * 번역 도구: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 
-## 오픈캠프 해커톤, 중앙대 제로페이지 *(2014년 4월)*
+### 오픈캠프 해커톤, 중앙대 제로페이지 *(2014년 4월)*
 
 대학교 컴퓨터동아리배 해커톤 행사에서 안드로이드 앱을 이용한 아이디어 앱으로 1위를 하였습니다.
 
@@ -177,23 +190,25 @@ Flybook은 마크다운 문서로부터 정적 웹사이트를 생성해주는 �
   * 코어 알고리즘 개발: 로우 패스 필터를 이용한 동적 볼륨 조절 알고리즘
 
 
-# 언어
+## 언어
 
 * 한국어, 모국어
 * 영어, 유창함
-  * TOEIC: 855, 2013-05-25
-  * OPIc: IH, 2012-09-22
+  * latest TOEIC: 855, 2013-05-25
+  * latest OPIc: IH, 2012-09-22
 
 
-# 관심사
+## 관심사
+
 
 * 피아노 연주
+  * [Send in the Clowns - Yuna Kim, piano cover](https://youtu.be/8gB9X7pdGgw)
 * 헬스, 크로스핏, 배드민턴, 스포츠 클라이밍과 같은 운동
 * 기술 블로그 글 읽기/수집하기/쓰기
   * 개인 기술 블로그: [https://djkeh.github.io](https://djkeh.github.io/)
   * 관심 있는 블로그: [TOAST Meetup](http://meetup.toast.com/), [Kakao Tech Blog](http://tech.kakao.com/), [Naver D2 Hello World](http://d2.naver.com/helloworld), 개인 블로그 [Outsider's Dev Story](https://blog.outsider.ne.kr/), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/) 등
 
 
-# 기타
+## 기타
 
 * 병역: 육군, 만기제대

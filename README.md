@@ -3,7 +3,7 @@
 Brief Info.
 
 * Eunho Kim (김은호)
-* Server Programmer, [Kakaopay](https://www.kakaopay.com/)
+* Server Programmer, [KakaoCommerce](https://www.kakaocommerce.com/)
 * Gyeonggi-do, South Korea
 * [djkehh@gmail.com](mailto:djkehh@gmail.com)
 

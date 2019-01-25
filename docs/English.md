@@ -1,30 +1,37 @@
 # Eunho Kim
 
-Server Programmer (Java, Spring)  
+Web Application Server Programmer (Java, Spring)  
 Gyeonggi-do, Republic of Korea  
 +82-10-2778-5309  
 [djkehh@gmail.com](mailto:djkehh@gmail.com)
 
 
-# Education
+## Education
 
-## Graduate, Soongsil University, Seoul, South Korea *(Feb 2014 – Mar 2005)*
+### Graduate, Soongsil University, Seoul, South Korea *(Feb 2014 – Mar 2005)*
 
 * A Bachelor Degree in Telecommunications & Electronic Engineering
 
 
-# Work Experience
+## Work Experience
 
-## Kakaopay, Gyeonggi-do, South Korea *(Now - Sep 2017)*
+### KakaoCommerce, Gyeonggi-do, South Korea *(Now - Dec 2018)*
+
+* Web application back-end programmer
+* Java, Groovy, Spring
+
+Currently working as a settlement back-end programmer of Shopping Platform Dev Team
+
+### Kakaopay, Gyeonggi-do, South Korea *(Dec 2018 - Sep 2017)*
 
 * Web application back-end programmer
 * Java, Spring
 
-### Supercell (Settlement Team)
+#### Supercell (Settlement Team)
 
 Kakaopay is the simple payment service which has 22.5 million accumulated users, 2.4 million partners and 1 trillion monthly turnover. Our role is to design and develop the settlement platform that deals with almost every payment transaction data.
 
-#### Unified Settlement Platform *(Now - Apr 2018)*
+##### Unified Settlement Platform *(Dec 2018 - Apr 2018)*
 
 * Used techniques: Java (Spring Boot), HTML/CSS/Javascript/React, MySQL, Git (GitHub)
 * Project description: Unified settlement platform takes responsibility of settling payment transactions from various channels including online, offline, card, point and etc. to respond to the different user requirements with flexibility.
@@ -33,14 +40,14 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
   * Developed domain, main system, api, batch process and web admin dashboard
   * Maintaining and improving the system functionality by reflecting continuous user feedbacks, new issues and requests from new contracts
 
-## NHN Entertainment, Gyeonggi-do, South Korea *(Sep 2017 – Jan 2015)*
+### NHN Entertainment, Gyeonggi-do, South Korea *(Sep 2017 – Jan 2015)*
 
 * Web application back-end programmer
 * Java, Spring
 
-### O2O Service Development Team
+#### O2O Service Development Team
 
-#### TOAST Meetup *(Sep 2017 - Apr 2017)*
+##### TOAST Meetup *(Sep 2017 - Apr 2017)*
 
 * Used techniques: Java (Spring Boot), HTML/CSS/Javascript, MySQL, Git (GitHub)
 * Project description: TOAST Meetup is the technical blog run by NHN Entertainment. Its goal is to share valuable information and programming trends to the public and thereby drag other programmers' attention to the brand TOAST and relevant products. This project aims to develop a brand new version of TOAST Meetup to improve the service quality and reduce its operation cost.
@@ -50,7 +57,7 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
   * Conducted V2 project from service planning to development only with ui design and markup support
   * Managed blog operations such as contacting the author, revising articles and publishing to the blog
 
-#### Unsudowon, Friend Recommendation Event *(Mar 2017 - Jan 2017)*
+##### Unsudowon, Friend Recommendation Event *(Mar 2017 - Jan 2017)*
 
 * Used techniques: Java(Spring), HTML/CSS/Javascript, Shell Script, Python, MySQL, Git(GitHub)
 * Project description: Unsudowon is mobile app which offers a variety of fortune telling services based on machine learning technology and over 1500 sample images of human faces and palms. Unsudowon mainly consists of 3 parts: TensorFlow core engine, web application server and mobile app. This project is about holding the New Year holiday event to have new Payco users, as Unsudowon uses Payco account and OAuth login system for operating member service. Unsudowon is the service which has over 100,000 users, 10,000 DAU. The data is analyzed by AceCounter and TOAST Analytics are used to collect and analyze user log.
@@ -62,9 +69,9 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
   * Developed REST API for the event, interlocking logic between the service and the external Payco member API, the entire front page, and the script that draws the event winners and matches user delivery information 
   * Completed the project in time with the cooperation of 2 programmers despite given 8 business days of very tight schedule
 
-### Cloud Development Team
+#### Cloud Development Team
 
-#### TOAST Cloud Health Dashboard & Etc. *(Dec 2016 - Aug 2016)*
+##### TOAST Cloud Health Dashboard & Etc. *(Dec 2016 - Aug 2016)*
 
 * Used techniques: Java(Spring), HTML/CSS/Javascript, MySQL, Git(GitHub)
 * Project description: TOAST Cloud Health Dashboard is the web service which shows the availability of the entire services of TOAST Cloud and related products in real time. [Amazon AWS Service Health Dashboard](http://status.aws.amazon.com) is one of good comparison to this service. The main purpose of this project is to monitor every TOAST Cloud service availability in real time, provide it to the customer and most of all, respond to the unexpected service failure instantly. The core service and its API have been prepared already, so the main purpose of this project is to present it on the TOAST Cloud website.
@@ -74,9 +81,9 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
   * Conducted entire project from service planning to development only with design and markup support
   * Maintained other products including TOAST Cloud CS&BBS and Email, participating code reviews with colleagues during the task.
 
-### Search Engineering Team
+#### Search Engineering Team
 
-#### Spell Checker API *(Jul 2016 - Jan 2016)*
+##### Spell Checker API *(Jul 2016 - Jan 2016)*
 
 * Used techniques: C/C++(Apache module), Java(Spring), HTML/CSS/Javascript, Git(GitHub), Markdown(Confluence Wiki, GitHub)
 * Project description: Spell Checker API is a [TOAST Cloud](https://cloud.toast.com/) product designed in RESTful web API. This API takes a certain Korean paragraph which is expected to have typos and returns the corrected paragraph as the result. The spell checker engine was present, but was made of unsustainable old legacy code written in C programming language. The main objective of this project is to analyze, debug, refine the engine code and move it to Apache module program using C++ to build more convenient and sustainable web API. The product presentation page is made of Java, Spring.
@@ -90,7 +97,7 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
   * Acknowledged in refactoring project source codes and organizing documentation
   * Documented service description, manual, very detailed and well structured operating guide for internal service operators and developers in markdown language
 
-#### PAYCO Data Analysis *(Jan 2016 - Oct 2015)*
+##### PAYCO Data Analysis *(Jan 2016 - Oct 2015)*
 
 * Used techniques: Java(Hadoop MR, Streaming), HTML/CSS/Javascript, Python, Shell Script, Git(GitHub)
 * Project description: The goal of this project is to collect and analyze [Payco](https://play.google.com/store/apps/details?id=com.nhnent.payapp) user payment logs and product search queries to gain valuable information and provide personalized ads to the customer.
@@ -98,7 +105,7 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
   * Utilized Hadoop cluster system and developed MR programs to analyze about 6 months of payment logs from millions of users
   * Developed a web page to report summarized and visualized data
 
-#### Address Search API *(Jul 2016 - Apr 2015)*
+##### Address Search API *(Jul 2016 - Apr 2015)*
 
 * Used techniques: C++, Java(Spring Boot), HTML/CSS/Javascript, Python, Shell Script, Git(GitHub), Markdown(Confluence Wiki, GitHub)
 * Project description: Address Search API is a [TOAST Cloud](https://cloud.toast.com/) product which provides unified address search experience. South Korea currently has 2 different local address systems, one of which is old, deprecated but still present. Most competitors provide the service to search two addresses separately, which means the user can't search old address in new address search input box and vice versa, even two addresses mean same location. It also means it needs to be sure for users to know which kind of address it is before searching. This product has single search input to query two types of addresses without a care. The address search engine distinguishes address query and gives the search result. The Address Search API is designed in a RESTful way, Richardson Maturity Level 2. The major clients of this service are TOAST Cloud users, other departments in the company, affiliates and cooperatives. The API requests per month is about 1.8 million.
@@ -117,22 +124,35 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
   * Documented service description, manual, very detailed and well structured operating guide for internal service operators and developers in markdown language
 
 
-# Internship Experience & Etc.
+## Internship Experience & Etc.
 
-## BC Card, Intern, Seoul, South Korea *(Aug 2014 – June 2014)*
+### BC Card, Intern, Seoul, South Korea *(Aug 2014 – June 2014)*
 
-## NAVER, Natural Language Processing Team Intern, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
+### NAVER, Natural Language Processing Team Intern, Gyeonggi-do, South Korea *(Jan 2014 – Sep 2013)*
 
-## NAVER Software Membership, Seoul, South Korea *(Aug 2013 – Feb 2013)*
+### NAVER Software Membership, Seoul, South Korea *(Aug 2013 – Feb 2013)*
 
-## Concept One Accessories, MIS/Operations Intern, New York, United States *(Feb 2011 – Jul 2010)*
+### Concept One Accessories, MIS/Operations Intern, New York, United States *(Feb 2011 – Jul 2010)*
 
 
-# Extracurricular Activity
+## Extracurricular Activity
 
-## Open Source Contributor, Flybook *(Now - Jun 2017)*
+### Open Source Contributor, Flybook *(Now - Dec 2018)*
 
-* Flybook: A utility to generate static website from markdown document ([https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook))
+[gitignore.io](https://www.gitignore.io/)
+
+* A web service which creates combinations of well known `.gitignore` templates
+* Project repository: [https://github.com/joeblau/gitignore.io](https://github.com/joeblau/gitignore.io)
+* Participated in the project as a contributor
+* Resolved an issue [#435](https://github.com/joeblau/gitignore.io/issues/435)
+* Participating in debates of open issues
+
+### Open Source Contributor, Flybook *(Now - Jun 2017)*
+
+[Flybook](https://flybook.js.org/)
+
+* A utility to generate static website from markdown document
+* Project repository: [https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
 * Participated in the project as a contributor
 * Tested the project in Windows user environment of which detailed functionalities were not properly tested
 * Reported issues through GitHub
@@ -140,14 +160,16 @@ Kakaopay is the simple payment service which has 22.5 million accumulated users,
 
 This resume is published by Flybook.
 
-## Korean Translation, Bitbeaker *(May 2017 - Nov 2016)*
+### Korean Translation, Bitbeaker *(May 2017 - Nov 2016)*
 
-* Bitbeaker: An Android client for Atlassian Bitbucket ([https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker))
+[Bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker)
+
+* An Android client for Atlassian Bitbucket ([https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker))
 * Translated entire android application and Google Play Store app description page
 * Issue: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
 * Translation Tool: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 
-## Hackathon, Opencamp, Zeropage of Chung-Ang University *(Apr 2014)*
+### Hackathon, Opencamp, Zeropage of Chung-Ang University *(Apr 2014)*
 
 * Won 1st place out of 12 teams for making an Android app 
 * Project: Harmony, dynamic volume controller based on the street noise
@@ -159,24 +181,24 @@ This resume is published by Flybook.
   * Programmed core logic: dynamic volume control using low-pass filter algorithm
 
 
-# Language
+## Language
 
 * Korean, native
 * English, fluent
-  * TOEIC: 855, 2013-05-25
-  * OPIc: IH, 2012-09-22
+  * latest TOEIC: 855, 2013-05-25
+  * latest OPIc: IH, 2012-09-22
 
 
-# Interest
+## Interest
 
 * Playing piano
+  * [Send in the Clowns - Yuna Kim, piano cover](https://youtu.be/8gB9X7pdGgw)
 * Sports and exercises like workout, crossfit, badminton and sport climbing
 * Reading, scrapping and writing technical articles
   * Personal tech blog: [https://djkeh.github.io](https://djkeh.github.io/)
   * Recent visit: [TOAST Meetup](http://meetup.toast.com/), [Kakao Tech Blog](http://tech.kakao.com/), [Naver D2 Hello World](http://d2.naver.com/helloworld), including personal tech blogs like [Outsider's Dev Story](https://blog.outsider.ne.kr/), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/)
 
 
-# Etc.
+## Etc.
 
 * Military service: army, honorable discharge
-
