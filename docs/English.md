@@ -17,23 +17,49 @@ Gyeonggi-do, Republic of Korea
 
 ### KakaoCommerce, Gyeonggi-do, South Korea *(Now - Dec 2018)*
 
-* Web application back-end programmer
+* Batch/Web application back-end programmer
 * Java, Groovy, Spring
 
-Currently working as a settlement back-end programmer of Shopping Platform Dev Team
+KakaoCommerce is leading e-commerce market based on KakaoTalk 100 million users and mobile voucher service. In 2019, the company achieved steady growth and high performance with 1 trillion KRW cumulative transactions, 200 billion KRW monthly transactions and 100 billion revenue.
+
+#### Settlement Platform Development
+
+Settlement Platform Development handles every incoming transactions into settlement data. The works are mainly focused on developing Admin services and batch programs.
+
+##### Applying Vault to Secure Sensitive Information *(Feb 2020 - Jan 2020)*
+
+* Used techniques: Groovy(Spring Boot), MySQL, Spring Vault, Git(GitHub)
+* Project description: Our entire services and batch programs now manage veriety of kinds of "sensitive information" like privacy data such as bank account number, database access information and external api access tokens using Vault
+* Achievement
+  * Researched relevantly implemented technologies starting from Hashicorp Vault, followed by Spring Vault and Spring Cloud Vault.
+  * Managed detailed plans that includes which technology is efficient, maintainable and compatible with our system, which data should be secured, how long the project will take, how it will be tested and etc.
+  * Developed entire process beginning with applying Spring Vault, choosing app-role authentication, determining access control to authorized servers and personnel and implementing Spring configurations to connect Vault server
+  * Designed the test scenario and performed unit tests and integration tests
+
+##### Systematizing Customized Settlement Workflow *(Oct 2019 - Sep 2019)*
+
+* Used techniques: Groovy(Spring Boot), HTML/CSS/Javascript/React, MySQL, Git(GitHub)
+* Project description: This project is to provide system administrators functionalities to deal with very customized settlement data which are out of regular workflow.
+* Achievement
+  * Designed domain models for relevant entities and their relationships, business logics and tests
+  * Developed business logics for customized settlement functionalities
+  * Implemented specific authentication logics for limited authorities to certain users and administrators using Spring Security expressions
+  * Maintaining and consistently improving services and usabilities upon the user feedback.
 
 ### Kakaopay, Gyeonggi-do, South Korea *(Dec 2018 - Sep 2017)*
 
-* Web application back-end programmer
+* Batch/Web application back-end programmer
 * Java, Spring
+
+Kakaopay is the simple payment service which has 22.5 million accumulated users, 2.4 million partners and 1 trillion monthly turnover.
 
 #### Supercell (Settlement Team)
 
-Kakaopay is the simple payment service which has 22.5 million accumulated users, 2.4 million partners and 1 trillion monthly turnover. Our role is to design and develop the settlement platform that deals with almost every payment transaction data.
+The role of Supercell is to design and develop the settlement platform that deals with main payment transaction data.
 
 ##### Unified Settlement Platform *(Dec 2018 - Apr 2018)*
 
-* Used techniques: Java (Spring Boot), HTML/CSS/Javascript/React, MySQL, Git (GitHub)
+* Used techniques: Java(Spring Boot), HTML/CSS/Javascript/React, MySQL, Git(GitHub)
 * Project description: Unified settlement platform takes responsibility of settling payment transactions from various channels including online, offline, card, point and etc. to respond to the different user requirements with flexibility.
 * Achievement
   * Designed domain models and their relationships of the unified settlement platform considering variety of business workflows
