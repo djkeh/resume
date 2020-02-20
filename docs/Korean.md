@@ -216,16 +216,15 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 * 한국어, 모국어
 * 영어, 유창함
-  * latest TOEIC: 855, 2013-05-25
+  * latest TOEIC: 880, 2020-01-19
   * latest OPIc: IH, 2012-09-22
 
 
 ## 관심사
 
-
 * 피아노 연주
   * [Send in the Clowns - Yuna Kim, piano cover](https://youtu.be/8gB9X7pdGgw)
-* 헬스, 크로스핏, 배드민턴, 스포츠 클라이밍과 같은 운동
+* 운동: 헬스, 배드민턴, 스포츠 클라이밍
 * 기술 블로그 글 읽기/수집하기/쓰기
   * 개인 기술 블로그: [https://djkeh.github.io](https://djkeh.github.io/)
   * 관심 있는 블로그: [TOAST Meetup](http://meetup.toast.com/), [Kakao Tech Blog](http://tech.kakao.com/), [Naver D2 Hello World](http://d2.naver.com/helloworld), 개인 블로그 [Outsider's Dev Story](https://blog.outsider.ne.kr/), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/) 등

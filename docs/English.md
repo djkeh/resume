@@ -212,7 +212,7 @@ This resume is published by Flybook.
 
 * Korean, native
 * English, fluent
-  * latest TOEIC: 855, 2013-05-25
+  * latest TOEIC: 880, 2020-01-19
   * latest OPIc: IH, 2012-09-22
 
 
@@ -220,7 +220,7 @@ This resume is published by Flybook.
 
 * Playing piano
   * [Send in the Clowns - Yuna Kim, piano cover](https://youtu.be/8gB9X7pdGgw)
-* Sports and exercises like workout, crossfit, badminton and sport climbing
+* Sports and exercises like weight training, badminton and sport climbing
 * Reading, scrapping and writing technical articles
   * Personal tech blog: [https://djkeh.github.io](https://djkeh.github.io/)
   * Recent visit: [TOAST Meetup](http://meetup.toast.com/), [Kakao Tech Blog](http://tech.kakao.com/), [Naver D2 Hello World](http://d2.naver.com/helloworld), including personal tech blogs like [Outsider's Dev Story](https://blog.outsider.ne.kr/), [MartinFowler.com](https://martinfowler.com/), [Just hack'em](https://justhackem.wordpress.com/)
