@@ -75,7 +75,7 @@ The role of Supercell is to design and develop the settlement platform that deal
 
 ##### TOAST Meetup *(Sep 2017 - Apr 2017)*
 
-* Used techniques: Java (Spring Boot), HTML/CSS/Javascript, MySQL, Git (GitHub)
+* Used techniques: Java(Spring Boot), HTML/CSS/Javascript, MySQL, Git(GitHub)
 * Project description: TOAST Meetup is the technical blog run by NHN Entertainment. Its goal is to share valuable information and programming trends to the public and thereby drag other programmers' attention to the brand TOAST and relevant products. This project aims to develop a brand new version of TOAST Meetup to improve the service quality and reduce its operation cost.
 * Product page: [http://meetup.toast.com](http://meetup.toast.com/)
 * Achievement
@@ -171,6 +171,7 @@ The role of Supercell is to design and develop the settlement platform that deal
 * Project repository: [https://github.com/joeblau/gitignore.io](https://github.com/joeblau/gitignore.io)
 * Participated in the project as a contributor
 * Resolved an issue [#435](https://github.com/joeblau/gitignore.io/issues/435)
+* Translated entire view layer of the web service to Korean
 * Participating in debates of open issues
 
 ### Open Source Contributor, Flybook *(Now - Jun 2017)*
@@ -180,7 +181,7 @@ The role of Supercell is to design and develop the settlement platform that deal
 * A utility to generate static website from markdown document
 * Project repository: [https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
 * Participated in the project as a contributor
-* Tested the project in Windows user environment of which detailed functionalities were not properly tested
+* Shared some specific test results of the project for Windows user environment of which detailed functionalities had not ever been properly tested ([https://github.com/rhiokim/flybook/issues/13](https://github.com/rhiokim/flybook/issues/13))
 * Reported issues through GitHub
 * Revised official project documents
 
@@ -191,7 +192,7 @@ This resume is published by Flybook.
 [Bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker)
 
 * An Android client for Atlassian Bitbucket ([https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker))
-* Translated entire android application and Google Play Store app description page
+* Translated entire android application and Google Play Store app description page to Korean
 * Issue: [https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation](https://bitbucket.org/bitbeaker-dev-team/bitbeaker/issues/366/korean-translation)
 * Translation Tool: [https://crowdin.com/project/bitbeaker/ko#](https://crowdin.com/project/bitbeaker/ko#)
 

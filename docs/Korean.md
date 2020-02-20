@@ -175,13 +175,13 @@ TOAST Cloud 부속 상품인 도로명 주소 통합 검색 API 개발 프로젝
 
 ### 오픈소스 컨트리뷰터, gitignore.io *(2018년 12월 ~ 현재)*
 
-[gitignore.io](https://www.gitignore.io/)는 언어, 프레임워크 및 도구 별로 보편적인 `.gitignore` 설정을 템플릿으로 모아두었다가 손쉽게 작성할 수 있도록 도와주는 유명 웹서비스입니다. 트위터, 아마존, 구글, 페이스북, 마이크로소프트, airbnb 등 최고의 IT 기업들이 이 서비스를 사용하였습니다. 저는 본 프로젝트 이슈 [#435](https://github.com/joeblau/gitignore.io/issues/435)를 해결하는 코드를 제출하여 컨트리뷰터가 되었고, 지속적으로 이 프로젝트에 관심을 가지고 참여하고 있습니다.
+[gitignore.io](https://www.gitignore.io/)는 언어, 프레임워크 및 도구 별로 보편적인 `.gitignore` 설정을 템플릿으로 모아두었다가 손쉽게 작성할 수 있도록 도와주는 유명 웹서비스입니다. 트위터, 아마존, 구글, 페이스북, 마이크로소프트, airbnb 등 최고의 IT 기업들이 이 서비스를 사용하였습니다. 저는 본 프로젝트를 한글화하고, 이슈 [#435](https://github.com/joeblau/gitignore.io/issues/435)를 해결하는 코드를 제출하여 컨트리뷰터가 되었습니다. 현재 지속적으로 이 프로젝트에 관심을 가지고 참여하고 있습니다.
 
 [https://github.com/joeblau/gitignore.io](https://github.com/joeblau/gitignore.io)
 
 ### 오픈소스 컨트리뷰터, Flybook *(2017년 6월 ~ 현재)*
 
-[Flybook](https://flybook.js.org/)은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim) 님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어를 얻었으며, React와 React DOM Server를 사용하였습니다. 저는 본 프로젝트에 사용자 피드백과 테스트, 버그 리포트, 문서 업데이트를 통해 컨트리뷰터로 참여하였습니다.
+[Flybook](https://flybook.js.org/)은 마크다운 문서로부터 정적 웹사이트를 생성해주는 도구로, [Rhio Kim](https://github.com/rhiokim) 님이 개발한 오픈소스 프로젝트입니다. [funbook](https://funbook.js.org/)과 [next.js](https://zeit.co/blog/next)에서 아이디어를 얻었으며, React와 React DOM Server를 사용하였습니다. 저는 본 프로젝트에 사용자 피드백과 윈도우 환경을 포함한 테스트([https://github.com/rhiokim/flybook/issues/13](https://github.com/rhiokim/flybook/issues/13)), 버그 리포트, 문서 업데이트를 통해 컨트리뷰터로 참여하였습니다.
 
 [https://github.com/rhiokim/flybook](https://github.com/rhiokim/flybook)
 
