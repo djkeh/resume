@@ -9,7 +9,7 @@
   line-height: 1.5;
   /*color: #24292e;*/
   /*font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.5;
   word-wrap: break-word;
 }
@@ -455,8 +455,8 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-  margin-top: 36px;
-  margin-bottom: 16px;
+  margin-top: 32px;
+  margin-bottom: 14px;
   font-weight: 600;
   line-height: 1.25;
 }
@@ -511,11 +511,11 @@
 }
 
 .markdown-body h5 {
-  font-size: 0.8em;
+  font-size: 0.85em;
 }
 
 .markdown-body h6 {
-  font-size: 0.7em;
+  font-size: 0.8em;
   color: #6a737d;
 }
 
@@ -528,8 +528,12 @@
 .markdown-body ul ol,
 .markdown-body ol ol,
 .markdown-body ol ul {
-  margin-top: 0;
+  margin-top: 0.25em;
   margin-bottom: 0;
+}
+
+.markdown-body li {
+  font-size: 0.9em;
 }
 
 .markdown-body li>p {
