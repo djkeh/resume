@@ -64,7 +64,7 @@ The role of Supercell is to design and develop the settlement platform that deal
 * Achievement
   * Designed domain models and their relationships of the unified settlement platform considering variety of business workflows
   * Developed domain, main system, api, batch process and web admin dashboard
-  * Maintaining and improving the system functionality by reflecting continuous user feedbacks, new issues and requests from new contracts
+  * Maintained and improved the system functionality by reflecting continuous user feedbacks, new issues and requests from new contracts
 
 ### NHN Entertainment, Gyeonggi-do, South Korea *(Sep 2017 – Jan 2015)*
 
@@ -81,7 +81,7 @@ The role of Supercell is to design and develop the settlement platform that deal
 * Achievement
   * Analyzed current TOAST Meetup service to find out what the problem is and what should be corrected to enhance work efficiency
   * Conducted V2 project from service planning to development only with ui design and markup support
-  * Managed blog operations such as contacting the author, revising articles and publishing to the blog
+  * Managed quality of blog service by contacting authors, revising and publishing articles
 
 ##### Unsudowon, Friend Recommendation Event *(Mar 2017 - Jan 2017)*
 
@@ -163,7 +163,7 @@ The role of Supercell is to design and develop the settlement platform that deal
 
 ## Extracurricular Activity
 
-### Open Source Contributor, Flybook *(Now - Dec 2018)*
+### Open Source Contributor, gitignore.io *(Now - Dec 2018)*
 
 [gitignore.io](https://www.gitignore.io/)
 
