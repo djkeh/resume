@@ -9,7 +9,7 @@
   line-height: 1.5;
   /*color: #24292e;*/
   /*font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   word-wrap: break-word;
 }
@@ -455,8 +455,8 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-  margin-top: 24px;
-  margin-bottom: 16px;
+  margin-top: 32px;
+  margin-bottom: 14px;
   font-weight: 600;
   line-height: 1.25;
 }
@@ -493,17 +493,17 @@
 .markdown-body h1 {
   padding-bottom: 0.3em;
   font-size: 2em;
-  border-bottom: 1px solid #eaecef;
+  border-bottom: 4px double #eaecef;
 }
 
 .markdown-body h2 {
   padding-bottom: 0.3em;
-  font-size: 1.5em;
+  font-size: 1.4em;
   border-bottom: 1px solid #eaecef;
 }
 
 .markdown-body h3 {
-  font-size: 1.25em;
+  font-size: 1.15em;
 }
 
 .markdown-body h4 {
@@ -511,11 +511,11 @@
 }
 
 .markdown-body h5 {
-  font-size: 0.875em;
+  font-size: 0.85em;
 }
 
 .markdown-body h6 {
-  font-size: 0.85em;
+  font-size: 0.8em;
   color: #6a737d;
 }
 
@@ -528,12 +528,17 @@
 .markdown-body ul ol,
 .markdown-body ol ol,
 .markdown-body ol ul {
-  margin-top: 0;
+  margin-top: 0.25em;
   margin-bottom: 0;
 }
 
+.markdown-body li {
+  font-size: 13px;
+}
+
 .markdown-body li>p {
-  margin-top: 16px;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
 }
 
 .markdown-body li+li {
