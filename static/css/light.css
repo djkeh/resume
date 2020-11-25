@@ -116,7 +116,7 @@ h6:hover span.icon-link {
 }
 
 .markdown-body h2 {
-  border-bottom: 1px solid #eaecef;
+  border-bottom: 0;
 }
 
 .markdown-body code:not(.hljs)::before,

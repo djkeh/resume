@@ -15,10 +15,10 @@
           href="//fonts.googleapis.com/css?family=Noto+Sans"
           rel="stylesheet"
         />
-        <link rel="stylesheet" href="./static/css/normalize.css?0e7b28ecfd042734" />
-        <link rel="stylesheet" href="./static/css/flexboxgrid.min.css?0e7b28ecfd042734" />
-        <link rel="stylesheet" href="./static/css/github-flavored-markdown.css?0e7b28ecfd042734" />
-        <link rel="stylesheet" href="./static/css/light.css?0e7b28ecfd042734" />
+        <link rel="stylesheet" href="./static/css/normalize.css?49267364c6bba223" />
+        <link rel="stylesheet" href="./static/css/flexboxgrid.min.css?49267364c6bba223" />
+        <link rel="stylesheet" href="./static/css/github-flavored-markdown.css?49267364c6bba223" />
+        <link rel="stylesheet" href="./static/css/light.css?49267364c6bba223" />
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/androidstudio.min.css" />
         <style>
           body, .markdown-body {
@@ -26,7 +26,7 @@
           }
         </style>
         <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-        <script src="./static/main.js?0e7b28ecfd042734"></script>
+        <script src="./static/main.js?49267364c6bba223"></script>
       </head>
       <body>
         <div id="root"><div class="wrap container-fluid"><header class="site-header"><h1><a href="https://djkeh.github.io/resume/">resume</a></h1><nav class="nav-link"><a href="https://djkeh.github.io/resume/">Home</a><a href="https://github.com/djkeh/resume">Git</a><a href="#" class="more"><svg aria-hidden="true" class="octicon" height="24" version="1.1" viewBox="0 0 12 16" width="18"><path d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"></path></svg></a></nav></header><section class="row main"><aside class="col-xs-12 col-sm-3 col-md-3 col-lg-3"><div class="chap"><span class="chap-title"></span><ul><li class="active"><a href="./English.html">English</a></li><li class=""><a href="./Korean.html">Korean</a></li></ul></div></aside><article class="col-xs-12 col-sm-9 col-md-9 col-lg-9"><div class="markdown-body"><h1 id="eunho-kim"><a href="#eunho-kim" aria-hidden="true"><span class="icon icon-link"></span></a>Eunho Kim</h1>
@@ -46,17 +46,34 @@ Gyeonggi-do, Republic of Korea<br>
 <li>Java, Groovy, Spring</li>
 </ul>
 <p>KakaoCommerce is leading e-commerce market based on KakaoTalk 100 million users and mobile voucher service. In 2019, the company achieved steady growth and high performance with 1 trillion KRW cumulative transactions, 200 billion KRW monthly transactions and 100 billion revenue.</p>
-<h4 id="settlement-platform-development"><a href="#settlement-platform-development" aria-hidden="true"><span class="icon icon-link"></span></a>Settlement Platform Development</h4>
-<p>Settlement Platform Development handles every incoming transactions into settlement data. The works are mainly focused on developing Admin services and batch programs.</p>
-<h5 id="applying-vault-to-secure-sensitive-information-feb-2020---jan-2020"><a href="#applying-vault-to-secure-sensitive-information-feb-2020---jan-2020" aria-hidden="true"><span class="icon icon-link"></span></a>Applying Vault to Secure Sensitive Information <em>(Feb 2020 - Jan 2020)</em></h5>
+<h4 id="user-development-team"><a href="#user-development-team" aria-hidden="true"><span class="icon icon-link"></span></a>User Development Team</h4>
+<p>User Development Team deals with every account data for our customers such as buyer and seller, and takes responsibility to process authorization features.</p>
+<h5 id="holiday-management-service-nov-2020---sep-2020"><a href="#holiday-management-service-nov-2020---sep-2020" aria-hidden="true"><span class="icon icon-link"></span></a>Holiday Management Service <em>(Nov 2020 - Sep 2020)</em></h5>
 <ul>
-<li>Used techniques: Groovy(Spring Boot), MySQL, Spring Vault, Git(GitHub)</li>
-<li>Project description: Our entire services and batch programs now manage veriety of kinds of "sensitive information" like privacy data such as bank account number, database access information and external api access tokens using Vault</li>
+<li>Used techniques: Java(Spring Boot), MySQL, Git(GitHub)</li>
+<li>Project description: This is a administration service for managing any kind of holidays as well as weekends and legal holidays. The service offers reliable holiday information to let users know proper business days for settlement of transactions, customer notifications or batch processing.</li>
 <li>
 <p>Achievement</p>
 <ul>
-<li>Researched relevantly implemented technologies starting from Hashicorp Vault, followed by Spring Vault and Spring Cloud Vault.</li>
-<li>Managed detailed plans that includes which technology is efficient, maintainable and compatible with our system, which data should be secured, how long the project will take, how it will be tested and etc.</li>
+<li>Initiated a new project as a dedicated developer with full responsibility</li>
+<li>Designed entire service domain, Web API specification and business logic</li>
+<li>Integrated CI/CD workflow, application error monitoring and performance monitoring using variety of systems including Jenkins, Github and prepared infrastructures</li>
+<li>Conducted whole procedures to launch a brand new service of KakaoCommerce from A to Z</li>
+</ul>
+</li>
+</ul>
+<p>카카오커머스 전체 개발 조직이 이용할 목적으로 만든 공휴일 기록 관리 서비스입니다. 공휴일 정보는 주말과 국경일, 그리고 회사가 정하는 휴일 정보를 포함합니다. 관리자가 어드민 도구를 이용해 이를 편리하게 관리하고자 하는 니즈에 맞춰 기획된 서비스입니다. 입력한 휴일 정보는 영업일을 파악하여 정산 날짜를 계산하거나, 각종 알림과 같은 배치 업무를 처리하는데 사용됩니다.</p>
+<h4 id="settlement-platform-development-team"><a href="#settlement-platform-development-team" aria-hidden="true"><span class="icon icon-link"></span></a>Settlement Platform Development Team</h4>
+<p>Settlement Platform Development Team handles every incoming transaction which is needed to be settled. The tasks are mainly focused on developing Admin services and batch programs.</p>
+<h5 id="applying-vault-to-secure-sensitive-information-feb-2020---jan-2020"><a href="#applying-vault-to-secure-sensitive-information-feb-2020---jan-2020" aria-hidden="true"><span class="icon icon-link"></span></a>Applying Vault to Secure Sensitive Information <em>(Feb 2020 - Jan 2020)</em></h5>
+<ul>
+<li>Used techniques: Groovy(Spring Boot), MySQL, Spring Vault, Git(GitHub)</li>
+<li>Project description: Our entire services and batch programs now manage veriety of kinds of "sensitive information" like privacy data such as bank account number, database access information and external api access tokens using Vault.</li>
+<li>
+<p>Achievement</p>
+<ul>
+<li>Researched relevantly implemented technologies starting from Hashicorp Vault, followed by Spring Vault and Spring Cloud Vault</li>
+<li>Managed detailed plans that includes which technology is efficient, maintainable and compatible with our system, which data should be secured, how long the project will take, how it will be tested and etc</li>
 <li>Developed entire process beginning with applying Spring Vault, choosing app-role authentication, determining access control to authorized servers and personnel and implementing Spring configurations to connect Vault server</li>
 <li>Designed the test scenario and performed unit tests and integration tests</li>
 </ul>
@@ -72,7 +89,7 @@ Gyeonggi-do, Republic of Korea<br>
 <li>Designed domain models for relevant entities and their relationships, business logics and tests</li>
 <li>Developed business logics for customized settlement functionalities</li>
 <li>Implemented specific authentication logics for limited authorities to certain users and administrators using Spring Security expressions</li>
-<li>Maintaining and consistently improving services and usabilities upon the user feedback.</li>
+<li>Maintaining and consistently improving services and usabilities upon the user feedback</li>
 </ul>
 </li>
 </ul>
@@ -132,7 +149,7 @@ Gyeonggi-do, Republic of Korea<br>
 <p>Achievement</p>
 <ul>
 <li>Designed the event purpose data model</li>
-<li>Developed REST API for the event, interlocking logic between the service and the external Payco member API, the entire front page, and the script that draws the event winners and matches user delivery information </li>
+<li>Developed REST API for the event, interlocking logic between the service and the external Payco member API, the entire front page, and the script that draws the event winners and matches user delivery information</li>
 <li>Completed the project in time with the cooperation of 2 programmers despite given 8 business days of very tight schedule</li>
 </ul>
 </li>
